@@ -1,0 +1,147 @@
+{
+  "updated_at": "2026-06-10T12:21:01Z",
+  "total_requests": 9711,
+  "today_requests": 9710,
+  "today_unique": 66,
+  "bandwidth_mb": 181.6,
+  "recent_5000": {
+    "unique_visitors": 37,
+    "total_hits": 5000,
+    "bandwidth_mb": 181.6
+  },
+  "top_pages": [
+    [
+      "/api/channels",
+      137
+    ],
+    [
+      "/manifest.json",
+      77
+    ],
+    [
+      "/",
+      57
+    ],
+    [
+      "/challenge?redirect=https%3A%2F%2Ftv.drop.my.id%2F",
+      30
+    ],
+    [
+      "/watch/BeritaSatu.id%40SD?_rsc=5CB68i4pnAekjehf",
+      28
+    ],
+    [
+      "/watch/tvOne.id%40SD?_rsc=5CB68i4pnAekjehf",
+      28
+    ],
+    [
+      "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
+      28
+    ],
+    [
+      "/watch/iTbSyptSI7ovhK%40za?_rsc=5CB68i4pnAekjehf",
+      27
+    ],
+    [
+      "/watch/MetroTV.id%40SD?_rsc=5CB68i4pnAekjehf",
+      27
+    ],
+    [
+      "/watch/iTbSyptSI7ovhK%40za?_rsc=tXyZJ52UQVBCVsD3",
+      27
+    ],
+    [
+      "/watch/tvOne.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
+      27
+    ],
+    [
+      "/watch/Kwb4zYk9mkeksQ%40es?_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/semua?country=News&_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/watch/j3tl4h3LoJOG0p%40es?_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/watch/KB99Wa2uILCWk1%40es?_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/watch/gsTBbyeaJICffC%40ge?_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/watch/ypi2E7rwejj7EP%40nl?_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/semua?country=All&_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/semua?country=Channel%20Populer&_rsc=5CB68i4pnAekjehf",
+      26
+    ],
+    [
+      "/watch/Kwb4zYk9mkeksQ%40es?_rsc=tXyZJ52UQVBCVsD3",
+      26
+    ]
+  ],
+  "top_referrers": [
+    [
+      "https://tv.drop.my.id/",
+      3064
+    ],
+    [
+      "https://tv.drop.my.id/semua?country=Indonesia",
+      347
+    ],
+    [
+      "https://tv.drop.my.id/watch/TransTV.id%40SD",
+      301
+    ],
+    [
+      "https://tv.drop.my.id/watch/MetroTV.id%40SD",
+      214
+    ],
+    [
+      "https://tv.drop.my.id/challenge?redirect=https%3A%2F%2Ftv.drop.my.id%2F",
+      138
+    ],
+    [
+      "https://tv.drop.my.id/semua?country=Science",
+      134
+    ],
+    [
+      "https://tv.drop.my.id/semua?genre=entertainment",
+      88
+    ],
+    [
+      "https://tv.drop.my.id/watch/tn94bXCcZQXp4I%40ae",
+      87
+    ],
+    [
+      "https://tv.drop.my.id/admin",
+      72
+    ],
+    [
+      "https://tv.drop.my.id/watch/TVRIWorld.id%40SD",
+      72
+    ]
+  ],
+  "status_codes": {
+    "200": 4874,
+    "304": 92,
+    "307": 30,
+    "401": 2,
+    "500": 2
+  },
+  "hourly": {
+    "11:00": 2280,
+    "12:00": 2720
+  }
+}
