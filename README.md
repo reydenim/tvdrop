@@ -169,3 +169,8 @@ Refer to [`/etc/nginx/sites-enabled/tv`](https://github.com/reydenim/tvdrop) for
   <br>
   <sub>Built with ❤️ and Next.js</sub>
 </p>
+
+
+## 🏆 Achievements
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-Closed%20Issue-green)]()
+[![YOLO](https://img.shields.io/badge/YOLO-Merged%20PR-orange)]()
