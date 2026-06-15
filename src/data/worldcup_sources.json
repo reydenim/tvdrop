@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "last_checked": "2026-06-14T12:18:35.155347",
+  "indonesia_broadcast": {
+    "primary": {
+      "channel": "TVRI Sport",
+      "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+      "type": "free-to-air",
+      "status": "active (live stream verified)",
+      "quality": "1080p HD"
+    },
+    "backup": {
+      "channel": "TVRI Nasional",
+      "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+      "type": "free-to-air",
+      "status": "active",
+      "quality": "1080p HD"
+    },
+    "alt": {
+      "channel": "TVRI World",
+      "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+      "type": "free-to-air",
+      "status": "active",
+      "quality": "1080p HD"
+    }
+  },
+  "international_broadcasts": {
+    "beIN_Sports_XTRA": {
+      "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "type": "free (ad-supported)",
+      "geo": "MENA"
+    },
+    "Fox_Sports": {
+      "url": "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8",
+      "type": "free (ad-supported)",
+      "geo": "US"
+    },
+    "CBS_Sports_Golazo": {
+      "url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8",
+      "type": "free",
+      "geo": "US"
+    },
+    "FTF_Sports": {
+      "url": "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8",
+      "type": "free"
+    }
+  },
+  "live_aggregator": {
+    "kora_api": "https://ws.kora-api.space/api/matches/today/1",
+    "kora_plus": "https://kora-plus.app",
+    "score808": "https://score808.my.id/live",
+    "tigoals": "https://tigoals.my.id"
+  },
+  "schedule_source": "kora-api.space"
+}

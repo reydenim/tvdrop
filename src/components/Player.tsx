@@ -2,13 +2,24 @@
 
 import { useEffect, useRef, useState, useCallback } from 'react'
 import Hls from 'hls.js'
-import { MediaPlayer as DashPlayer } from 'dashjs'
+import { markSessionDead } from './ChannelCard'
+// dashjs imported dynamically to avoid SSR window reference
 
 interface Channel {
   id: string
   name: string
   country: string
   url: string
+  headers?: Record<string, string>  // custom headers (Referer, User-Agent, Origin)
+}
+
+// Build proxy URL when channel has custom headers
+function proxyUrl(url: string, headers?: Record<string, string>) {
+  if (!headers || Object.keys(headers).length === 0) return url
+  const ref = headers['Referer'] || headers['referer'] || ''
+  const ua = headers['User-Agent'] || headers['user-agent'] || ''
+  const origin = headers['Origin'] || headers['origin'] || ''
+  return `/api/proxy?ref=${encodeURIComponent(ref)}&ua=${encodeURIComponent(ua)}&origin=${encodeURIComponent(origin)}&url=${encodeURIComponent(url)}`
 }
 
 // SVG Icons
@@ -20,7 +31,9 @@ const VolMuteIcon = () => <svg viewBox="0 0 24 24" fill="currentColor" className
 const PiPIcon = () => <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4"><rect x="2" y="3" width="20" height="14" rx="2"/><rect x="12" y="9" width="8" height="6" rx="1" fill="currentColor" stroke="none"/></svg>
 const FullscreenIcon = () => <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4"><path d="M8 3H5a2 2 0 00-2 2v3m18 0V5a2 2 0 00-2-2h-3m0 18h3a2 2 0 002-2v-3M3 16v3a2 2 0 002 2h3"/></svg>
 
-export default function Player({ ch, onClose }: { ch: Channel; onClose: () => void }) {
+export default function Player({ ch, onClose, onStatusChange }: { ch: Channel; onClose: () => void; onStatusChange?: (s: string) => void }) {
+  // Embed mode for external players (Vidio, etc.)
+  const isEmbed = ch.url.startsWith('embed:')
   const videoRef = useRef<HTMLVideoElement>(null)
   const hlsRef = useRef<Hls | null>(null)
   const hideTimer = useRef<NodeJS.Timeout | undefined>(undefined)
@@ -54,18 +67,21 @@ export default function Player({ ch, onClose }: { ch: Channel; onClose: () => vo
     if (!video) return
 
     let dashInstance: any = null
+    const streamUrl = proxyUrl(ch.url, ch.headers)
 
     if (ch.url.includes('.mpd')) {
-      // DASH stream
-      const dash = DashPlayer().create()
-      dashInstance = dash
-      dash.initialize(video, ch.url, true)
-      video.play().catch(() => {})
-      setStatus('Live')
+      // DASH stream — dynamic import to avoid SSR window error
+      import('dashjs').then(({ MediaPlayer: DashPlayer }) => {
+        const dash = DashPlayer().create()
+        dashInstance = dash
+        dash.initialize(video, streamUrl, true)
+        video.play().catch(() => {})
+        setStatus('Live')
+      })
     } else if (Hls.isSupported() && ch.url.includes('.m3u8')) {
       const hls = new Hls()
       hlsRef.current = hls
-      hls.loadSource(ch.url)
+      hls.loadSource(streamUrl)
       hls.attachMedia(video)
       hls.on(Hls.Events.MANIFEST_PARSED, () => {
         video.play().catch(() => {})
@@ -78,10 +94,10 @@ export default function Player({ ch, onClose }: { ch: Channel; onClose: () => vo
         }
       })
       hls.on(Hls.Events.ERROR, (_e, d) => {
-        if (d.fatal) setStatus('Error')
+        if (d.fatal) { setStatus('Error'); markSessionDead(ch.id) }
       })
     } else {
-      video.src = ch.url
+      video.src = streamUrl
       video.play().catch(() => {})
       setStatus('Live')
     }
@@ -94,6 +110,9 @@ export default function Player({ ch, onClose }: { ch: Channel; onClose: () => vo
     }
   }, [ch.url])
 
+  // Propagate status to parent for badge sync
+  useEffect(() => { onStatusChange?.(status) }, [status, onStatusChange])
+
   useEffect(() => {
     const video = videoRef.current
     if (!video) return
@@ -102,17 +121,20 @@ export default function Player({ ch, onClose }: { ch: Channel; onClose: () => vo
     const onPause = () => { setPlaying(false); setShowCtrls(true); clearTimeout(hideTimer.current) }
     const onWaiting = () => { setBuffering(true) }
     const onPlaying = () => { setBuffering(false) }
+    const onError = () => { setStatus('Error'); markSessionDead(ch.id) }
     video.addEventListener('timeupdate', onTime)
     video.addEventListener('play', onPlay)
     video.addEventListener('pause', onPause)
     video.addEventListener('waiting', onWaiting)
     video.addEventListener('playing', onPlaying)
+    video.addEventListener('error', onError)
     return () => {
       video.removeEventListener('timeupdate', onTime)
       video.removeEventListener('play', onPlay)
       video.removeEventListener('pause', onPause)
       video.removeEventListener('waiting', onWaiting)
       video.removeEventListener('playing', onPlaying)
+      video.removeEventListener('error', onError)
     }
   }, [showControls])
 
@@ -208,14 +230,36 @@ export default function Player({ ch, onClose }: { ch: Channel; onClose: () => vo
 
   const VolIcon = muted || volume === 0 ? VolMuteIcon : volume < 0.5 ? VolLowIcon : VolHighIcon
 
+  // Embed mode: external player (Vidio, etc.)
+  if (isEmbed) {
+    const embedUrl = ch.url.replace('embed:', '')
+    return (
+      <div id="plyr" className={`relative bg-black overflow-hidden ${isFs ? 'h-screen max-h-full' : 'aspect-video max-h-[72vh]'}`}>
+        {/* Top info */}
+        <div className="absolute top-0 left-0 right-0 bg-gradient-to-b from-black/70 to-transparent p-3 flex items-center gap-2 z-10">
+          <span className="text-sm font-semibold text-white">{ch.name}</span>
+          <span className="text-[10px] text-gray-400 ml-2">{ch.country}</span>
+          <span className="text-[10px] text-green-400 ml-2">● Live</span>
+        </div>
+        <iframe
+          src={embedUrl}
+          className="w-full h-full border-0"
+          style={{ minHeight: isFs ? '100vh' : '60vh' }}
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowFullScreen
+        />
+      </div>
+    )
+  }
+
   return (
     <div
       id="plyr"
-      className={`relative bg-black overflow-hidden ${isFs ? 'h-screen max-h-full' : 'max-h-[60vh]'}`}
+      className={`relative bg-black overflow-hidden ${isFs ? 'h-screen max-h-full' : 'aspect-video max-h-[72vh]'}`}
       onMouseMove={showControls}
       onTouchStart={showControls}
     >
-      <video ref={videoRef} className={`w-full block cursor-pointer ${isFs ? 'h-full' : 'max-h-[60vh]'}`} />
+      <video ref={videoRef} className={`w-full bg-black block cursor-pointer object-contain ${isFs ? 'h-full' : 'h-full max-h-[72vh]'}`} />
 
       {/* Top info */}
       <div className={`absolute top-0 left-0 right-0 bg-gradient-to-b from-black/70 to-transparent p-3 flex items-center gap-2 transition-opacity duration-300 z-10 ${showCtrls ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>

@@ -1,0 +1,279 @@
+{
+  "updated": "2026-06-15 19:08:31 WIB",
+  "source": "kora-api.space (Yacineweb.org)",
+  "total_matches": 4,
+  "matches": [
+    {
+      "date": "2026-06-15",
+      "time_utc": "16:00",
+      "time_wib": "Mon, 15 Jun 23:00 WIB",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "today",
+      "channels": {
+        "🇮🇩": [
+          {
+            "name": "TVRI Nasional",
+            "id": "TVRI.id@HD"
+          },
+          {
+            "name": "TVRI Sport",
+            "id": "TVRISport.id@SD"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          },
+          {
+            "name": "WC Live 2 Server 1",
+            "id": "WCLive21@HD"
+          }
+        ],
+        "🇺🇸": [
+          {
+            "name": "Fox Sports 1",
+            "id": "FoxSports1.us@HD"
+          },
+          {
+            "name": "CBS Sports Golazo",
+            "id": "Mut1mafEBDelBc@us"
+          }
+        ],
+        "🇬🇧": [
+          {
+            "name": "BBC News HD",
+            "id": "31U63I8METsDXI@uk"
+          }
+        ],
+        "🌍": [
+          {
+            "name": "beIN SPORTS XTRA",
+            "id": "beINSPORTSXTRA.us@SD"
+          },
+          {
+            "name": "Abu Dhabi Sports 1",
+            "id": "abudhabisports1@AE"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "time_utc": "19:00",
+      "time_wib": "Tue, 16 Jun 02:00 WIB",
+      "home": "Belgium",
+      "away": "Egypt",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "upcoming",
+      "channels": {
+        "🇮🇩": [
+          {
+            "name": "TVRI Nasional",
+            "id": "TVRI.id@HD"
+          },
+          {
+            "name": "TVRI Sport",
+            "id": "TVRISport.id@SD"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          },
+          {
+            "name": "WC Live 2 Server 1",
+            "id": "WCLive21@HD"
+          }
+        ],
+        "🇺🇸": [
+          {
+            "name": "Fox Sports 1",
+            "id": "FoxSports1.us@HD"
+          },
+          {
+            "name": "CBS Sports Golazo",
+            "id": "Mut1mafEBDelBc@us"
+          }
+        ],
+        "🇬🇧": [
+          {
+            "name": "BBC News HD",
+            "id": "31U63I8METsDXI@uk"
+          }
+        ],
+        "🌍": [
+          {
+            "name": "beIN SPORTS XTRA",
+            "id": "beINSPORTSXTRA.us@SD"
+          },
+          {
+            "name": "Abu Dhabi Sports 1",
+            "id": "abudhabisports1@AE"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "time_utc": "22:00",
+      "time_wib": "Tue, 16 Jun 05:00 WIB",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "upcoming",
+      "channels": {
+        "🇮🇩": [
+          {
+            "name": "TVRI Nasional",
+            "id": "TVRI.id@HD"
+          },
+          {
+            "name": "TVRI Sport",
+            "id": "TVRISport.id@SD"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          },
+          {
+            "name": "WC Live 2 Server 1",
+            "id": "WCLive21@HD"
+          }
+        ],
+        "🇺🇸": [
+          {
+            "name": "Fox Sports 1",
+            "id": "FoxSports1.us@HD"
+          },
+          {
+            "name": "CBS Sports Golazo",
+            "id": "Mut1mafEBDelBc@us"
+          }
+        ],
+        "🇬🇧": [
+          {
+            "name": "BBC News HD",
+            "id": "31U63I8METsDXI@uk"
+          }
+        ],
+        "🌍": [
+          {
+            "name": "beIN SPORTS XTRA",
+            "id": "beINSPORTSXTRA.us@SD"
+          },
+          {
+            "name": "Abu Dhabi Sports 1",
+            "id": "abudhabisports1@AE"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "time_utc": "01:00",
+      "time_wib": "Tue, 16 Jun 08:00 WIB",
+      "home": "Iran",
+      "away": "New Zealand",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "upcoming",
+      "channels": {
+        "🇮🇩": [
+          {
+            "name": "TVRI Nasional",
+            "id": "TVRI.id@HD"
+          },
+          {
+            "name": "TVRI Sport",
+            "id": "TVRISport.id@SD"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          },
+          {
+            "name": "WC Live 2 Server 1",
+            "id": "WCLive21@HD"
+          }
+        ],
+        "🇺🇸": [
+          {
+            "name": "Fox Sports 1",
+            "id": "FoxSports1.us@HD"
+          },
+          {
+            "name": "CBS Sports Golazo",
+            "id": "Mut1mafEBDelBc@us"
+          }
+        ],
+        "🇬🇧": [
+          {
+            "name": "BBC News HD",
+            "id": "31U63I8METsDXI@uk"
+          }
+        ],
+        "🌍": [
+          {
+            "name": "beIN SPORTS XTRA",
+            "id": "beINSPORTSXTRA.us@SD"
+          },
+          {
+            "name": "Abu Dhabi Sports 1",
+            "id": "abudhabisports1@AE"
+          },
+          {
+            "name": "WC Live 1 Server 1",
+            "id": "WCLive11@HD"
+          },
+          {
+            "name": "WC Live 1 Server 2",
+            "id": "WCLive12@HD"
+          }
+        ]
+      }
+    }
+  ]
+}
