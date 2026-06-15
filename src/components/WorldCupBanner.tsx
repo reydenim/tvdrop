@@ -31,7 +31,15 @@ function parseMatchEnd(match: Match): Date {
 
 export default function WorldCupBanner({ matches }: Props) {
   const [now, setNow] = useState(new Date());
-  const [selectedCountry, setSelectedCountry] = useState('🇮🇩');
+  const [selectedCountry, setSelectedCountry] = useState('');
+
+  useEffect(() => {
+    // Set default country from available channels
+    const countries = Array.from(new Set(matches.flatMap(m => Object.keys(m.channels || {}))));
+    if (countries.length > 0 && !selectedCountry) {
+      setSelectedCountry(countries[0]);
+    }
+  }, [matches, selectedCountry]);
 
   useEffect(() => {
     const t = setInterval(() => setNow(new Date()), 30000);
@@ -55,6 +63,8 @@ export default function WorldCupBanner({ matches }: Props) {
     '🔴 Live': 'Yacine',
     '🔴 Live Stream': 'Yacine',
     '🔗 Yacine': 'Yacine',
+    '🔗 Kora-Plus Streams': 'Kora-Plus',
+    '📡 beIN SPORTS': 'beIN Sports',
     '🇪🇸': 'Spain',
     '🇩🇪': 'Germany',
     '🇫🇷': 'France',

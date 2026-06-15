@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-06-15T16:13:58Z",
-  "total_requests": 5127,
-  "today_requests": 5127,
-  "today_unique": 48,
-  "bandwidth_mb": 59.1,
+  "updated_at": "2026-06-15T16:19:58Z",
+  "total_requests": 5158,
+  "today_requests": 5158,
+  "today_unique": 49,
+  "bandwidth_mb": 58.3,
   "recent_5000": {
-    "unique_visitors": 45,
+    "unique_visitors": 46,
     "total_hits": 5000,
-    "bandwidth_mb": 59.1
+    "bandwidth_mb": 58.3
   },
   "top_pages": [
     [
       "/manifest.json",
-      246
+      237
     ],
     [
       "/",
-      92
+      93
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=5CB68i4pnAekjehf",
-      69
+      70
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=5CB68i4pnAekjehf",
-      63
+      64
     ],
     [
       "/watch/BeritaSatu.id%40SD?_rsc=5CB68i4pnAekjehf",
-      58
+      59
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      53
+      54
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      51
+      52
     ],
     [
       "/semua?_rsc=5CB68i4pnAekjehf",
-      49
+      50
     ],
     [
       "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      48
+      49
     ],
     [
       "/watch/TVRI.id%40HD?_rsc=5CB68i4pnAekjehf",
-      47
+      48
     ],
     [
       "/watch/WCLive11@HD?_rsc=5CB68i4pnAekjehf",
@@ -63,15 +63,15 @@
       42
     ],
     [
+      "/?_rsc=tXyZJ52UQVBCVsD3",
+      37
+    ],
+    [
       "/watch/WCLive21@HD?_rsc=tXyZJ52UQVBCVsD3",
       36
     ],
     [
       "/semua?_rsc=7h4NYy5eoyMcNlUN",
-      36
-    ],
-    [
-      "/?_rsc=tXyZJ52UQVBCVsD3",
       36
     ],
     [
@@ -87,18 +87,18 @@
       33
     ],
     [
-      "/watch/TransTV.id%40SD?_rsc=5CB68i4pnAekjehf",
+      "/watch/TVRI.id%40HD?_rsc=tXyZJ52UQVBCVsD3",
       33
     ]
   ],
   "top_referrers": [
     [
       "https://tv.drop.my.id/",
-      2374
+      2387
     ],
     [
       "https://tv.drop.my.id/watch/WCLive11@HD",
-      594
+      584
     ],
     [
       "https://tv.drop.my.id/semua?genre=cctv",
@@ -110,7 +110,7 @@
     ],
     [
       "https://tv.drop.my.id/watch/WCLive21@HD",
-      118
+      117
     ],
     [
       "https://tv.drop.my.id/semua",
@@ -134,16 +134,16 @@
     ]
   ],
   "status_codes": {
-    "200": 4655,
-    "304": 254,
-    "404": 85,
-    "499": 4,
+    "200": 4662,
+    "304": 245,
+    "404": 84,
+    "499": 6,
     "401": 1,
-    "308": 1
+    "308": 1,
+    "500": 1
   },
   "hourly": {
-    "01:00": 21,
-    "02:00": 468,
+    "02:00": 458,
     "03:00": 253,
     "04:00": 947,
     "05:00": 2,
@@ -156,6 +156,6 @@
     "13:00": 1203,
     "14:00": 2,
     "15:00": 102,
-    "16:00": 458
+    "16:00": 489
   }
 }
