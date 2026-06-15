@@ -1,8 +1,149 @@
 {
-  "updated": "2026-06-15 23:29:43 WIB",
+  "updated": "2026-06-15 23:33:53 WIB",
   "source": "kora-api.space (Yacineweb.org)",
-  "total_matches": 5,
+  "total_matches": 6,
   "matches": [
+    {
+      "date": "2026-06-14",
+      "time_utc": "17:00",
+      "time_wib": "Sen, 15 Jun 00:00 WIB",
+      "home": "Germany",
+      "away": "Curacao",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "finished",
+      "kora_id": "30611",
+      "channels": {
+        "🔗 Kora-Plus Streams": [
+          {
+            "name": "Bein Max 5 EN (En)",
+            "id": "yacine:30611:max5",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max5",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "TSN 4 (En)",
+            "id": "yacine:30611:tsn4",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tsn4",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Das Erste (En)",
+            "id": "yacine:30611:das",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=das",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Bein Sport 1 FR (En)",
+            "id": "yacine:30611:b1fr",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=b1fr",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Sport TV 5 (En)",
+            "id": "yacine:30611:tv5",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tv5",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "NPO 1 NL (En)",
+            "id": "yacine:30611:npo1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=npo1",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "ITV 1 (En)",
+            "id": "yacine:30611:itv1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=itv1",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Live 1 (En)",
+            "id": "yacine:30611:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f736f6363657262616c6c2e73742f72616d70616765732f7365617263636368312f",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Live 2 (En)",
+            "id": "yacine:30611:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f6d61736c617a2e636f6d2f6c732f3f743d31",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Live 3 (AR) (En)",
+            "id": "yacine:30611:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f31372e6c6976656b6f6f72612e626c6f672f616c6261706c617965722f6c697665312f",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "Live 4 (En)",
+            "id": "yacine:30611:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f746f70732e706f69792e6f6e6c696e652f616c6261706c617965722f6d6178312f",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "ALW 1 (Ar)",
+            "id": "yacine:30611:alwan1",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=alwan1",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "beIN MAX 1 (Ar)",
+            "id": "yacine:30611:max1",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max1",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          },
+          {
+            "name": "beIN MAX 1 4K (Ar)",
+            "id": "yacine:30611:max11",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max11",
+            "is_yacine": true,
+            "yacine_match_id": "30611"
+          }
+        ]
+      }
+    },
     {
       "date": "2026-06-15",
       "time_utc": "02:00",
@@ -16,119 +157,11 @@
       "channels": {
         "🔗 Kora-Plus Streams": [
           {
-            "name": "Fox Sport 1 (En)",
-            "id": "yacine:30614:fox1",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=fox1",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Bein Sport 1 FR (En)",
-            "id": "yacine:30614:b1fr",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=b1fr",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Sport TV 5 (En)",
-            "id": "yacine:30614:tv5",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tv5",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "NPO 1 NL (En)",
-            "id": "yacine:30614:npo1",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=npo1",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "TSN 4 (En)",
-            "id": "yacine:30614:tsn4",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tsn4",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "ITV 1 (En)",
-            "id": "yacine:30614:itv1",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=itv1",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Live 1 (En)",
-            "id": "yacine:30614:",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f736f6363657262616c6c2e73742f72616d70616765732f7365617263636368312f",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Live 2 (En)",
-            "id": "yacine:30614:",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f6d61736c617a2e636f6d2f6c732f3f743d31",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Live 3 (AR) (En)",
-            "id": "yacine:30614:",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f31372e6c6976656b6f6f72612e626c6f672f616c6261706c617965722f6c697665312f",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "Live 4 (En)",
-            "id": "yacine:30614:",
-            "quality": "HD",
-            "language": "En",
-            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f746f70732e706f69792e6f6e6c696e652f616c6261706c617965722f6d6178312f",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "beIN MAX 2 (Ar)",
-            "id": "yacine:30614:max2",
-            "quality": "HD",
-            "language": "Ar",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max2",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "ALW 1 (Ar)",
-            "id": "yacine:30614:alwan1",
-            "quality": "HD",
-            "language": "Ar",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=alwan1",
-            "is_yacine": true,
-            "yacine_match_id": "30614"
-          },
-          {
-            "name": "beIN MAX 2 4K (Ar)",
-            "id": "yacine:30614:max22",
-            "quality": "HD",
-            "language": "Ar",
-            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max22",
+            "name": "🔜 Streams available when match starts",
+            "id": "yacine-pending:30614",
+            "quality": "",
+            "language": "",
+            "frame_url": "",
             "is_yacine": true,
             "yacine_match_id": "30614"
           }
@@ -301,7 +334,9 @@
             "id": "yacine-pending:30616",
             "quality": "",
             "language": "",
-            "frame_url": ""
+            "frame_url": "",
+            "is_yacine": true,
+            "yacine_match_id": "30616"
           }
         ]
       }
@@ -323,7 +358,9 @@
             "id": "yacine-pending:30617",
             "quality": "",
             "language": "",
-            "frame_url": ""
+            "frame_url": "",
+            "is_yacine": true,
+            "yacine_match_id": "30617"
           }
         ]
       }
@@ -345,7 +382,9 @@
             "id": "yacine-pending:30618",
             "quality": "",
             "language": "",
-            "frame_url": ""
+            "frame_url": "",
+            "is_yacine": true,
+            "yacine_match_id": "30618"
           }
         ]
       }
