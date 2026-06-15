@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-15T13:31:55Z",
-  "total_requests": 4185,
-  "today_requests": 4185,
+  "updated_at": "2026-06-15T13:37:55Z",
+  "total_requests": 4500,
+  "today_requests": 4500,
   "today_unique": 41,
-  "bandwidth_mb": 49.9,
+  "bandwidth_mb": 53.7,
   "recent_5000": {
     "unique_visitors": 41,
-    "total_hits": 4184,
-    "bandwidth_mb": 49.9
+    "total_hits": 4499,
+    "bandwidth_mb": 53.7
   },
   "top_pages": [
     [
       "/manifest.json",
-      212
+      225
     ],
     [
       "/",
@@ -20,7 +20,7 @@
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=5CB68i4pnAekjehf",
-      60
+      61
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=5CB68i4pnAekjehf",
@@ -48,7 +48,7 @@
     ],
     [
       "/semua?_rsc=5CB68i4pnAekjehf",
-      40
+      41
     ],
     [
       "/watch/WCLive11@HD?_rsc=5CB68i4pnAekjehf",
@@ -63,6 +63,10 @@
       37
     ],
     [
+      "/semua?_rsc=7h4NYy5eoyMcNlUN",
+      33
+    ],
+    [
       "/watch/WCLive21@HD?_rsc=tXyZJ52UQVBCVsD3",
       33
     ],
@@ -73,10 +77,6 @@
     [
       "/watch/WCLive12@HD?_rsc=tXyZJ52UQVBCVsD3",
       33
-    ],
-    [
-      "/semua?_rsc=7h4NYy5eoyMcNlUN",
-      32
     ],
     [
       "/semua?_rsc=I5JE6HmEodfA7mTG",
@@ -94,19 +94,19 @@
   "top_referrers": [
     [
       "https://tv.drop.my.id/",
-      2041
+      2064
     ],
     [
       "https://tv.drop.my.id/watch/WCLive11@HD",
       551
     ],
     [
-      "https://tv.drop.my.id/semua?q=Bein",
-      135
+      "https://tv.drop.my.id/semua?genre=cctv",
+      243
     ],
     [
-      "https://tv.drop.my.id/semua?genre=cctv",
-      125
+      "https://tv.drop.my.id/semua?q=Bein",
+      135
     ],
     [
       "https://tv.drop.my.id/semua",
@@ -121,22 +121,22 @@
       94
     ],
     [
+      "https://tv.drop.my.id/semua?genre=cctv&page=2",
+      88
+    ],
+    [
       "https://tv.drop.my.id/watch/MetroTV.id%40SD",
       68
     ],
     [
       "https://tv.drop.my.id/semua?q=Bein&page=2",
       63
-    ],
-    [
-      "https://tv.drop.my.id/watch/lcQDr83GGlzSBu%40us",
-      60
     ]
   ],
   "status_codes": {
-    "200": 3854,
-    "304": 221,
-    "404": 106,
+    "200": 4150,
+    "304": 235,
+    "404": 111,
     "308": 1,
     "401": 1,
     "499": 1
@@ -154,6 +154,6 @@
     "10:00": 229,
     "11:00": 257,
     "12:00": 269,
-    "13:00": 823
+    "13:00": 1138
   }
 }
