@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-15T13:37:55Z",
-  "total_requests": 4500,
-  "today_requests": 4500,
+  "updated_at": "2026-06-15T13:43:55Z",
+  "total_requests": 4550,
+  "today_requests": 4550,
   "today_unique": 41,
-  "bandwidth_mb": 53.7,
+  "bandwidth_mb": 54.4,
   "recent_5000": {
     "unique_visitors": 41,
-    "total_hits": 4499,
-    "bandwidth_mb": 53.7
+    "total_hits": 4549,
+    "bandwidth_mb": 54.4
   },
   "top_pages": [
     [
       "/manifest.json",
-      225
+      232
     ],
     [
       "/",
@@ -134,8 +134,8 @@
     ]
   ],
   "status_codes": {
-    "200": 4150,
-    "304": 235,
+    "200": 4193,
+    "304": 242,
     "404": 111,
     "308": 1,
     "401": 1,
@@ -154,6 +154,6 @@
     "10:00": 229,
     "11:00": 257,
     "12:00": 269,
-    "13:00": 1138
+    "13:00": 1188
   }
 }
