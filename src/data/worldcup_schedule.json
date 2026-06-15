@@ -1,72 +1,223 @@
 {
-  "updated": "2026-06-15 19:08:31 WIB",
+  "updated": "2026-06-15 23:09:49 WIB",
   "source": "kora-api.space (Yacineweb.org)",
-  "total_matches": 4,
+  "total_matches": 5,
   "matches": [
     {
       "date": "2026-06-15",
+      "time_utc": "02:00",
+      "time_wib": "Sen, 15 Jun 09:00 WIB",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "stage": "World Cup",
+      "venue": "",
+      "status": "finished",
+      "kora_id": "30614",
+      "channels": {
+        "🔗 Kora-Plus Streams": [
+          {
+            "name": "Fox Sport 1 (En)",
+            "id": "yacine:30614:fox1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=fox1"
+          },
+          {
+            "name": "Bein Sport 1 FR (En)",
+            "id": "yacine:30614:b1fr",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=b1fr"
+          },
+          {
+            "name": "Sport TV 5 (En)",
+            "id": "yacine:30614:tv5",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tv5"
+          },
+          {
+            "name": "NPO 1 NL (En)",
+            "id": "yacine:30614:npo1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=npo1"
+          },
+          {
+            "name": "TSN 4 (En)",
+            "id": "yacine:30614:tsn4",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tsn4"
+          },
+          {
+            "name": "ITV 1 (En)",
+            "id": "yacine:30614:itv1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=itv1"
+          },
+          {
+            "name": "Live 1 (En)",
+            "id": "yacine:30614:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f736f6363657262616c6c2e73742f72616d70616765732f7365617263636368312f"
+          },
+          {
+            "name": "Live 2 (En)",
+            "id": "yacine:30614:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f6d61736c617a2e636f6d2f6c732f3f743d31"
+          },
+          {
+            "name": "Live 3 (AR) (En)",
+            "id": "yacine:30614:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f31372e6c6976656b6f6f72612e626c6f672f616c6261706c617965722f6c697665312f"
+          },
+          {
+            "name": "Live 4 (En)",
+            "id": "yacine:30614:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f746f70732e706f69792e6f6e6c696e652f616c6261706c617965722f6d6178312f"
+          },
+          {
+            "name": "beIN MAX 2 (Ar)",
+            "id": "yacine:30614:max2",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max2"
+          },
+          {
+            "name": "ALW 1 (Ar)",
+            "id": "yacine:30614:alwan1",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=alwan1"
+          },
+          {
+            "name": "beIN MAX 2 4K (Ar)",
+            "id": "yacine:30614:max22",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max22"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-06-15",
       "time_utc": "16:00",
-      "time_wib": "Mon, 15 Jun 23:00 WIB",
+      "time_wib": "Sen, 15 Jun 23:00 WIB",
       "home": "Spain",
       "away": "Cape Verde",
       "stage": "World Cup",
       "venue": "",
-      "status": "today",
+      "status": "live",
+      "kora_id": "30615",
       "channels": {
-        "🇮🇩": [
+        "🔗 Kora-Plus Streams": [
           {
-            "name": "TVRI Nasional",
-            "id": "TVRI.id@HD"
+            "name": "Live 1 (En)",
+            "id": "yacine:30615:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f736f6363657262616c6c2e73742f72616d70616765732f7365617263636368312f"
           },
           {
-            "name": "TVRI Sport",
-            "id": "TVRISport.id@SD"
+            "name": "ITV 1 (En)",
+            "id": "yacine:30615:itv1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=itv1"
           },
           {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
+            "name": "Fox Net (En)",
+            "id": "yacine:30615:foxnet",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=foxnet"
           },
           {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
+            "name": "Bein Sport 1 FR (En)",
+            "id": "yacine:30615:b1fr",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=b1fr"
           },
           {
-            "name": "WC Live 2 Server 1",
-            "id": "WCLive21@HD"
-          }
-        ],
-        "🇺🇸": [
-          {
-            "name": "Fox Sports 1",
-            "id": "FoxSports1.us@HD"
+            "name": "NPO 1 NL (En)",
+            "id": "yacine:30615:npo1",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=npo1"
           },
           {
-            "name": "CBS Sports Golazo",
-            "id": "Mut1mafEBDelBc@us"
-          }
-        ],
-        "🇬🇧": [
-          {
-            "name": "BBC News HD",
-            "id": "31U63I8METsDXI@uk"
-          }
-        ],
-        "🌍": [
-          {
-            "name": "beIN SPORTS XTRA",
-            "id": "beINSPORTSXTRA.us@SD"
+            "name": "Sport TV 5 (En)",
+            "id": "yacine:30615:tv5",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tv5"
           },
           {
-            "name": "Abu Dhabi Sports 1",
-            "id": "abudhabisports1@AE"
+            "name": "TSN 4 (En)",
+            "id": "yacine:30615:tsn4",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=tsn4"
           },
           {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
+            "name": "Das Erste (En)",
+            "id": "yacine:30615:das",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=das"
           },
           {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
+            "name": "Live 2 (En)",
+            "id": "yacine:30615:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f6d61736c617a2e636f6d2f6c732f3f743d31"
+          },
+          {
+            "name": "Live 3 (AR) (En)",
+            "id": "yacine:30615:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f31372e6c6976656b6f6f72612e626c6f672f616c6261706c617965722f6c697665312f"
+          },
+          {
+            "name": "Live 4 (En)",
+            "id": "yacine:30615:",
+            "quality": "HD",
+            "language": "En",
+            "frame_url": "https://score808.mov/share/stream100.php?token=68747470733a2f2f687265662e6c692f3f68747470733a2f2f746f70732e706f69792e6f6e6c696e652f616c6261706c617965722f6d6178312f"
+          },
+          {
+            "name": "ALW 1 (Ar)",
+            "id": "yacine:30615:alwan1",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=alwan1"
+          },
+          {
+            "name": "beIN MAX 1 (Ar)",
+            "id": "yacine:30615:max1",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max1"
+          },
+          {
+            "name": "beIN MAX 1 4K (Ar)",
+            "id": "yacine:30615:max11",
+            "quality": "HD",
+            "language": "Ar",
+            "frame_url": "https://reddit-soccer-streams.online/frame.php?ch=max11"
           }
         ]
       }
@@ -74,67 +225,21 @@
     {
       "date": "2026-06-15",
       "time_utc": "19:00",
-      "time_wib": "Tue, 16 Jun 02:00 WIB",
+      "time_wib": "Sel, 16 Jun 02:00 WIB",
       "home": "Belgium",
       "away": "Egypt",
       "stage": "World Cup",
       "venue": "",
-      "status": "upcoming",
+      "status": "today",
+      "kora_id": "30616",
       "channels": {
-        "🇮🇩": [
+        "🔗 Kora-Plus Streams": [
           {
-            "name": "TVRI Nasional",
-            "id": "TVRI.id@HD"
-          },
-          {
-            "name": "TVRI Sport",
-            "id": "TVRISport.id@SD"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
-          },
-          {
-            "name": "WC Live 2 Server 1",
-            "id": "WCLive21@HD"
-          }
-        ],
-        "🇺🇸": [
-          {
-            "name": "Fox Sports 1",
-            "id": "FoxSports1.us@HD"
-          },
-          {
-            "name": "CBS Sports Golazo",
-            "id": "Mut1mafEBDelBc@us"
-          }
-        ],
-        "🇬🇧": [
-          {
-            "name": "BBC News HD",
-            "id": "31U63I8METsDXI@uk"
-          }
-        ],
-        "🌍": [
-          {
-            "name": "beIN SPORTS XTRA",
-            "id": "beINSPORTSXTRA.us@SD"
-          },
-          {
-            "name": "Abu Dhabi Sports 1",
-            "id": "abudhabisports1@AE"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
+            "name": "🔜 Streams available when match starts",
+            "id": "yacine-pending:30616",
+            "quality": "",
+            "language": "",
+            "frame_url": ""
           }
         ]
       }
@@ -142,67 +247,21 @@
     {
       "date": "2026-06-15",
       "time_utc": "22:00",
-      "time_wib": "Tue, 16 Jun 05:00 WIB",
+      "time_wib": "Sel, 16 Jun 05:00 WIB",
       "home": "Saudi Arabia",
       "away": "Uruguay",
       "stage": "World Cup",
       "venue": "",
-      "status": "upcoming",
+      "status": "today",
+      "kora_id": "30617",
       "channels": {
-        "🇮🇩": [
+        "🔗 Kora-Plus Streams": [
           {
-            "name": "TVRI Nasional",
-            "id": "TVRI.id@HD"
-          },
-          {
-            "name": "TVRI Sport",
-            "id": "TVRISport.id@SD"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
-          },
-          {
-            "name": "WC Live 2 Server 1",
-            "id": "WCLive21@HD"
-          }
-        ],
-        "🇺🇸": [
-          {
-            "name": "Fox Sports 1",
-            "id": "FoxSports1.us@HD"
-          },
-          {
-            "name": "CBS Sports Golazo",
-            "id": "Mut1mafEBDelBc@us"
-          }
-        ],
-        "🇬🇧": [
-          {
-            "name": "BBC News HD",
-            "id": "31U63I8METsDXI@uk"
-          }
-        ],
-        "🌍": [
-          {
-            "name": "beIN SPORTS XTRA",
-            "id": "beINSPORTSXTRA.us@SD"
-          },
-          {
-            "name": "Abu Dhabi Sports 1",
-            "id": "abudhabisports1@AE"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
+            "name": "🔜 Streams available when match starts",
+            "id": "yacine-pending:30617",
+            "quality": "",
+            "language": "",
+            "frame_url": ""
           }
         ]
       }
@@ -210,67 +269,21 @@
     {
       "date": "2026-06-16",
       "time_utc": "01:00",
-      "time_wib": "Tue, 16 Jun 08:00 WIB",
+      "time_wib": "Sel, 16 Jun 08:00 WIB",
       "home": "Iran",
       "away": "New Zealand",
       "stage": "World Cup",
       "venue": "",
       "status": "upcoming",
+      "kora_id": "30618",
       "channels": {
-        "🇮🇩": [
+        "🔗 Kora-Plus Streams": [
           {
-            "name": "TVRI Nasional",
-            "id": "TVRI.id@HD"
-          },
-          {
-            "name": "TVRI Sport",
-            "id": "TVRISport.id@SD"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
-          },
-          {
-            "name": "WC Live 2 Server 1",
-            "id": "WCLive21@HD"
-          }
-        ],
-        "🇺🇸": [
-          {
-            "name": "Fox Sports 1",
-            "id": "FoxSports1.us@HD"
-          },
-          {
-            "name": "CBS Sports Golazo",
-            "id": "Mut1mafEBDelBc@us"
-          }
-        ],
-        "🇬🇧": [
-          {
-            "name": "BBC News HD",
-            "id": "31U63I8METsDXI@uk"
-          }
-        ],
-        "🌍": [
-          {
-            "name": "beIN SPORTS XTRA",
-            "id": "beINSPORTSXTRA.us@SD"
-          },
-          {
-            "name": "Abu Dhabi Sports 1",
-            "id": "abudhabisports1@AE"
-          },
-          {
-            "name": "WC Live 1 Server 1",
-            "id": "WCLive11@HD"
-          },
-          {
-            "name": "WC Live 1 Server 2",
-            "id": "WCLive12@HD"
+            "name": "🔜 Streams available when match starts",
+            "id": "yacine-pending:30618",
+            "quality": "",
+            "language": "",
+            "frame_url": ""
           }
         ]
       }
