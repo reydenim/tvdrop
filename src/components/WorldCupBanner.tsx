@@ -142,7 +142,9 @@ export default function WorldCupBanner({ matches }: Props) {
 }
 
 function MatchCard({ match, country, isLive }: { match: Match; country: string; isLive?: boolean }) {
-  const channels = match.channels[country] || [];
+  // Get channels for selected country, fallback to first available group
+  const matchGroups = Object.keys(match.channels || {});
+  const channels = match.channels[country] || (matchGroups.length > 0 ? match.channels[matchGroups[0]] : []);
   const timeDisplay = isLive ? '🔴 LIVE' : match.time_wib;
 
   return (

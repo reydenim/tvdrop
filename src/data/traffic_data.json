@@ -1,104 +1,104 @@
 {
-  "updated_at": "2026-06-15T16:31:58Z",
-  "total_requests": 5656,
-  "today_requests": 5656,
+  "updated_at": "2026-06-15T16:37:58Z",
+  "total_requests": 5888,
+  "today_requests": 5888,
   "today_unique": 51,
-  "bandwidth_mb": 58.8,
+  "bandwidth_mb": 57.8,
   "recent_5000": {
-    "unique_visitors": 46,
+    "unique_visitors": 45,
     "total_hits": 5000,
-    "bandwidth_mb": 58.8
+    "bandwidth_mb": 57.8
   },
   "top_pages": [
     [
       "/manifest.json",
-      254
+      256
     ],
     [
       "/",
-      66
+      65
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=5CB68i4pnAekjehf",
-      63
+      59
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=5CB68i4pnAekjehf",
-      57
+      54
     ],
     [
       "/watch/BeritaSatu.id%40SD?_rsc=5CB68i4pnAekjehf",
-      56
+      52
     ],
     [
       "/semua?_rsc=5CB68i4pnAekjehf",
-      48
+      51
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      46
-    ],
-    [
-      "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      44
+      42
     ],
     [
       "/watch/TVRI.id%40HD?_rsc=5CB68i4pnAekjehf",
-      44
+      40
+    ],
+    [
+      "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
+      39
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      44
+      39
     ],
     [
       "/?_rsc=tXyZJ52UQVBCVsD3",
-      36
-    ],
-    [
-      "/watch/WCLive11@HD?_rsc=5CB68i4pnAekjehf",
-      33
-    ],
-    [
-      "/watch/WCLive12@HD?_rsc=5CB68i4pnAekjehf",
-      32
-    ],
-    [
-      "/watch/WCLive21@HD?_rsc=5CB68i4pnAekjehf",
-      32
+      38
     ],
     [
       "/semua?_rsc=7h4NYy5eoyMcNlUN",
-      32
+      33
     ],
     [
       "/semua?_rsc=yIp22O3xgPPxC28X",
-      30
-    ],
-    [
-      "/watch/TransTV.id%40SD?_rsc=5CB68i4pnAekjehf",
-      29
+      31
     ],
     [
       "/semua?_rsc=ip66nQq-Rp6_4kIW",
+      30
+    ],
+    [
+      "/watch/WCLive11@HD?_rsc=5CB68i4pnAekjehf",
+      30
+    ],
+    [
+      "/watch/WCLive12@HD?_rsc=5CB68i4pnAekjehf",
+      30
+    ],
+    [
+      "/watch/WCLive21@HD?_rsc=5CB68i4pnAekjehf",
       29
     ],
     [
-      "/watch/TVRI.id%40HD?_rsc=tXyZJ52UQVBCVsD3",
-      27
+      "/watch/gsTBbyeaJICffC%40ge?_rsc=5CB68i4pnAekjehf",
+      28
     ],
     [
-      "/watch/TVRIWorld.id%40SD?_rsc=5CB68i4pnAekjehf",
-      27
+      "/semua?_rsc=I5JE6HmEodfA7mTG",
+      28
+    ],
+    [
+      "/semua?genre=general&_rsc=5CB68i4pnAekjehf",
+      26
     ]
   ],
   "top_referrers": [
     [
       "https://tv.drop.my.id/",
-      2257
+      2269
     ],
     [
       "https://tv.drop.my.id/watch/WCLive11@HD",
-      592
+      529
     ],
     [
       "https://tv.drop.my.id/semua?genre=cctv",
@@ -110,15 +110,15 @@
     ],
     [
       "https://tv.drop.my.id/semua?q=Bein",
-      135
-    ],
-    [
-      "https://tv.drop.my.id/watch/WCLive21@HD",
-      117
+      207
     ],
     [
       "https://tv.drop.my.id/semua",
       106
+    ],
+    [
+      "https://tv.drop.my.id/watch/WCLive21@HD",
+      99
     ],
     [
       "https://tv.drop.my.id/semua?genre=cctv&page=2",
@@ -134,17 +134,16 @@
     ]
   ],
   "status_codes": {
-    "200": 4636,
-    "304": 260,
-    "404": 83,
-    "499": 15,
+    "200": 4635,
+    "304": 261,
+    "404": 82,
+    "499": 16,
     "500": 4,
     "401": 1,
     "308": 1
   },
   "hourly": {
-    "03:00": 213,
-    "04:00": 947,
+    "04:00": 928,
     "05:00": 2,
     "07:00": 12,
     "08:00": 31,
@@ -155,6 +154,6 @@
     "13:00": 1203,
     "14:00": 2,
     "15:00": 102,
-    "16:00": 987
+    "16:00": 1219
   }
 }
