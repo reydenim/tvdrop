@@ -2309,7 +2309,7 @@
     },
     {
       "id": "uyFy17QwvWeu6p@br",
-      "name": "R\u00e1dio Temas de Novelas",
+      "name": "Rádio Temas de Novelas",
       "country": "Brazil",
       "quality": "720p",
       "url": "https://eu1.servers10.com:8081/8126/index.m3u8",
@@ -3757,7 +3757,7 @@
     },
     {
       "id": "pYln4wZZuMCej7@ca",
-      "name": "Noovo Cin\u00e9ma",
+      "name": "Noovo Cinéma",
       "country": "Canada",
       "quality": "720p",
       "url": "https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8",
@@ -3765,7 +3765,7 @@
     },
     {
       "id": "1fiLOa9FIokWlc@ca",
-      "name": "Noovo Com\u00e9dies",
+      "name": "Noovo Comédies",
       "country": "Canada",
       "quality": "720p",
       "url": "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8",
@@ -3773,7 +3773,7 @@
     },
     {
       "id": "jcROUmrpZC5o2e@ca",
-      "name": "Noovo T\u00e9l\u00e9r\u00e9alit\u00e9s",
+      "name": "Noovo Téléréalités",
       "country": "Canada",
       "quality": "720p",
       "url": "https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8",
@@ -4789,7 +4789,7 @@
     },
     {
       "id": "PQS6mmZySzL6Rf@cn",
-      "name": "\u4e0a\u865e1\u65b0\u95fb\u7efc\u5408",
+      "name": "上虞1新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
@@ -4797,7 +4797,7 @@
     },
     {
       "id": "2Fb8Um99xfgPRq@cn",
-      "name": "\u4e0a\u865e3\u65b0\u5546\u90fd",
+      "name": "上虞3新商都",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
@@ -4805,7 +4805,7 @@
     },
     {
       "id": "ZMTYKvEKk1dmYw@cn",
-      "name": "\u4e0a\u865e\u7d93\u6fdf\u6587\u5316",
+      "name": "上虞經濟文化",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
@@ -4813,7 +4813,7 @@
     },
     {
       "id": "HzvN0O8csJFrwx@cn",
-      "name": "\u4e4b\u6c5f\u7eaa\u5f55",
+      "name": "之江纪录",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
@@ -4821,7 +4821,7 @@
     },
     {
       "id": "4gpT2C61YO4gJy@cn",
-      "name": "\u4f59\u59da\u59da\u6c5f\u6587\u5316",
+      "name": "余姚姚江文化",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8",
@@ -4829,7 +4829,7 @@
     },
     {
       "id": "Z6LINyrJx59mNs@cn",
-      "name": "\u4f59\u59da\u65b0\u95fb\u7efc\u5408",
+      "name": "余姚新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
@@ -4837,7 +4837,7 @@
     },
     {
       "id": "Bffe72bDdR8TIN@cn",
-      "name": "\u519c\u5b89\u65b0\u95fb\u7efc\u5408",
+      "name": "农安新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/naxw/sd/live.m3u8",
@@ -4845,7 +4845,7 @@
     },
     {
       "id": "5VYLQDaYRpvKhu@cn",
-      "name": "\u524d\u90ed\u7efc\u5408",
+      "name": "前郭综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/qg/sd/live.m3u8",
@@ -4853,7 +4853,7 @@
     },
     {
       "id": "QH1RSdaU2QocPw@cn",
-      "name": "\u5409\u6797\u5e02\u65b0\u95fb\u7efc\u5408",
+      "name": "吉林市新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/jilin1/sd/live.m3u8",
@@ -4861,7 +4861,7 @@
     },
     {
       "id": "V8qtYbeqJ3oiRd@cn",
-      "name": "\u56db\u5e73\u65b0\u95fb\u7efc\u5408",
+      "name": "四平新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/sptv/sd/live.m3u8",
@@ -4869,7 +4869,7 @@
     },
     {
       "id": "9wRBNHe95BnBON@cn",
-      "name": "\u5d4a\u5dde\u7efc\u5408",
+      "name": "嵊州综合",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8",
@@ -4877,7 +4877,7 @@
     },
     {
       "id": "OV9fgTIJjuEnHm@cn",
-      "name": "\u5ef6\u8fb9\u65b0\u95fb\u7efc\u5408",
+      "name": "延边新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/jlyb/sd/live.m3u8",
@@ -4885,7 +4885,7 @@
     },
     {
       "id": "LWZapZpACANZ13@cn",
-      "name": "\u65b0\u660c\u4f11\u95f2\u5f71\u89c6",
+      "name": "新昌休闲影视",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8",
@@ -4893,7 +4893,7 @@
     },
     {
       "id": "4rBoFSFcNpIZxe@cn",
-      "name": "\u65b0\u660c\u65b0\u805e\u7d9c\u5408",
+      "name": "新昌新聞綜合",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
@@ -4901,7 +4901,7 @@
     },
     {
       "id": "UKPg4OIuLFiPtH@cn",
-      "name": "\u677e\u539f\u65b0\u95fb\u7efc\u5408",
+      "name": "松原新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/sytv/sd/live.m3u8",
@@ -4909,7 +4909,7 @@
     },
     {
       "id": "THg2ymDAp3wTLF@cn",
-      "name": "\u6cb3\u6e90\u7efc\u5408",
+      "name": "河源综合",
       "country": "China",
       "quality": "720p",
       "url": "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
@@ -4917,7 +4917,7 @@
     },
     {
       "id": "2D80wABwXq6SL0@cn",
-      "name": "\u6d59\u6c5f I \u7ecd\u5174\u5f71\u89c6",
+      "name": "浙江 I 绍兴影视",
       "country": "China",
       "quality": "720p",
       "url": "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
@@ -4925,7 +4925,7 @@
     },
     {
       "id": "q3imX08R99F529@cn",
-      "name": "\u6d59\u6c5f\u56fd\u9645",
+      "name": "浙江国际",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
@@ -4933,7 +4933,7 @@
     },
     {
       "id": "9lXsFkxoK3Y81Q@cn",
-      "name": "\u6d59\u6c5f\u6559\u79d1",
+      "name": "浙江教科",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
@@ -4941,7 +4941,7 @@
     },
     {
       "id": "TT80T0Uhd4YSQT@cn",
-      "name": "\u6d59\u6c5f\u65b0\u95fb",
+      "name": "浙江新闻",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
@@ -4949,7 +4949,7 @@
     },
     {
       "id": "DGN51eNb7kGHRy@cn",
-      "name": "\u6d59\u6c5f\u6c11\u751f",
+      "name": "浙江民生",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
@@ -4957,7 +4957,7 @@
     },
     {
       "id": "bed0qZJ8Xu4Wrw@cn",
-      "name": "\u6d59\u6c5f\u7ecf\u6d4e",
+      "name": "浙江经济",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
@@ -4965,7 +4965,7 @@
     },
     {
       "id": "VFiwsFTkgPQkI4@cn",
-      "name": "\u6d59\u6c5f\u94b1\u6c5f",
+      "name": "浙江钱江",
       "country": "China",
       "quality": "720p",
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
@@ -4973,7 +4973,7 @@
     },
     {
       "id": "uf8i2ptAW9zep4@cn",
-      "name": "\u767d\u5c71\u65b0\u95fb\u7efc\u5408",
+      "name": "白山新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/baishan1/sd/live.m3u8",
@@ -4981,7 +4981,7 @@
     },
     {
       "id": "j1PKhARZuXsXE7@cn",
-      "name": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u65b0\u95fb\u7efc\u5408\u9891\u9053 (FZTV-1)",
+      "name": "福州广播电视台新闻综合频道 (FZTV-1)",
       "country": "China",
       "quality": "720p",
       "url": "https://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
@@ -4989,7 +4989,7 @@
     },
     {
       "id": "1GnEgBr4piVPn4@cn",
-      "name": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u90fd\u5e02\u751f\u6d3b\u9891\u9053 (FZTV-3)",
+      "name": "福州广播电视台都市生活频道 (FZTV-3)",
       "country": "China",
       "quality": "720p",
       "url": "https://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
@@ -4997,7 +4997,7 @@
     },
     {
       "id": "53xcrNbACNtdim@cn",
-      "name": "\u798f\u5dde\u7535\u89c6\u53f0\u5c11\u513f\u9891\u9053 (FZTV-\u5c11\u513f)",
+      "name": "福州电视台少儿频道 (FZTV-少儿)",
       "country": "China",
       "quality": "720p",
       "url": "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": "HGBni7wKrtguXm@cn",
-      "name": "\u8427\u5c71\u65b0\u95fb\u7efc\u5408",
+      "name": "萧山新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
@@ -5013,7 +5013,7 @@
     },
     {
       "id": "hlJLT7eqdRNqcv@cn",
-      "name": "\u856d\u5c71\u751f\u6d3b\u983b\u9053",
+      "name": "蕭山生活頻道",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
@@ -5021,7 +5021,7 @@
     },
     {
       "id": "NpZu4VK2VQIwa6@cn",
-      "name": "\u8fbd\u6e90\u65b0\u95fb\u7efc\u5408",
+      "name": "辽源新闻综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8",
@@ -5029,7 +5029,7 @@
     },
     {
       "id": "GR8ODXBa5AGfBc@cn",
-      "name": "\u901a\u5316\u65b0\u95fb",
+      "name": "通化新闻",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/tonghua1/sd/live.m3u8",
@@ -5037,7 +5037,7 @@
     },
     {
       "id": "oNE3puWdpEsxQb@cn",
-      "name": "\u957f\u6625\u7efc\u5408",
+      "name": "长春综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/jlcc/sd/live.m3u8",
@@ -5045,7 +5045,7 @@
     },
     {
       "id": "0pqCht0rSXqoPv@cn",
-      "name": "\u96c6\u5b89\u7efc\u5408",
+      "name": "集安综合",
       "country": "China",
       "quality": "720p",
       "url": "https://stream2.jlntv.cn/ja/sd/live.m3u8",
@@ -5053,7 +5053,7 @@
     },
     {
       "id": "6nQrzZYDFKwB5C@cn",
-      "name": "\u9918\u59da\u59da\u6c5f\u6587\u5316",
+      "name": "餘姚姚江文化",
       "country": "China",
       "quality": "720p",
       "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
@@ -6108,16 +6108,16 @@
       "logo": ""
     },
     {
-      "id": "\u010dtsport@CZ",
-      "name": "\u010cT sport",
+      "id": "čtsport@CZ",
+      "name": "ČT sport",
       "country": "Czech Republic",
       "quality": "720p",
       "url": "https://sktv.plainrock127.xyz/get.php?x=CTsport",
       "logo": "https://i.imgur.com/I2dltZW.png"
     },
     {
-      "id": "\u010dtsportplus@CZ",
-      "name": "\u010cT sport Plus",
+      "id": "čtsportplus@CZ",
+      "name": "ČT sport Plus",
       "country": "Czech Republic",
       "quality": "720p",
       "url": "https://sktv.plainrock127.xyz/get.php?x=CTsportPlus",
@@ -7485,7 +7485,7 @@
     },
     {
       "id": "tigrgO7qLeNlDI@ec",
-      "name": "Ecuador Comunicaci\u00f3n",
+      "name": "Ecuador Comunicación",
       "country": "Ecuador",
       "quality": "720p",
       "url": "https://eu1.servers10.com:8081/8298/index.m3u8",
@@ -8365,7 +8365,7 @@
     },
     {
       "id": "cGjSaev20uBBta@fr",
-      "name": "Banijay Mr Bean Anim\u00e9",
+      "name": "Banijay Mr Bean Animé",
       "country": "France",
       "quality": "720p",
       "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
@@ -8469,7 +8469,7 @@
     },
     {
       "id": "08Ckvhcc4J0cdi@fr",
-      "name": "FilmRise DeGrassi la nouvelle g\u00e9n\u00e9ration",
+      "name": "FilmRise DeGrassi la nouvelle génération",
       "country": "France",
       "quality": "720p",
       "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113",
@@ -8493,7 +8493,7 @@
     },
     {
       "id": "Zd309NMpvaOGV5@fr",
-      "name": "FilmRise S\u00e9ries France",
+      "name": "FilmRise Séries France",
       "country": "France",
       "quality": "720p",
       "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033",
@@ -8589,7 +8589,7 @@
     },
     {
       "id": "R7QQGzMYNAADi7@fr",
-      "name": "Homicide la cha\u00eene du fait divers",
+      "name": "Homicide la chaîne du fait divers",
       "country": "France",
       "quality": "720p",
       "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
@@ -8621,7 +8621,7 @@
     },
     {
       "id": "qu8fNM6wQkTJJ8@fr",
-      "name": "ITV Un Village Fran\u00e7ais",
+      "name": "ITV Un Village Français",
       "country": "France",
       "quality": "720p",
       "url": "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8",
@@ -8669,7 +8669,7 @@
     },
     {
       "id": "PsqmjTAcyqo2QW@fr",
-      "name": "Les Secrets de Nos R\u00e9gions",
+      "name": "Les Secrets de Nos Régions",
       "country": "France",
       "quality": "720p",
       "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
@@ -8693,7 +8693,7 @@
     },
     {
       "id": "kD5MBV5ey6hKbh@fr",
-      "name": "Motus La Cha\u00eene",
+      "name": "Motus La Chaîne",
       "country": "France",
       "quality": "720p",
       "url": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
@@ -8757,7 +8757,7 @@
     },
     {
       "id": "GBee4ruMbEkHYx@fr",
-      "name": "Qui Veut Gagner Des Millions La Cha\u00eene",
+      "name": "Qui Veut Gagner Des Millions La Chaîne",
       "country": "France",
       "quality": "720p",
       "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
@@ -8933,7 +8933,7 @@
     },
     {
       "id": "8MY8QweXbIf30Y@fr",
-      "name": "Wasabi la cha\u00eene anime",
+      "name": "Wasabi la chaîne anime",
       "country": "France",
       "quality": "720p",
       "url": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8",
@@ -8941,7 +8941,7 @@
     },
     {
       "id": "T8DRD6kDPp2FBt@fr",
-      "name": "Y'a Que La V\u00e9rit\u00e9 Qui Compte La Cha\u00eene",
+      "name": "Y'a Que La Vérité Qui Compte La Chaîne",
       "country": "France",
       "quality": "720p",
       "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
@@ -10209,7 +10209,7 @@
     },
     {
       "id": "Gt6McIqzqsAgE1@de",
-      "name": "WDR Fernsehen D\u00fcsseldorf",
+      "name": "WDR Fernsehen Düsseldorf",
       "country": "Germany",
       "quality": "720p",
       "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8",
@@ -10225,7 +10225,7 @@
     },
     {
       "id": "HOEGJfbN2vEljn@de",
-      "name": "WDR Fernsehen K\u00f6ln",
+      "name": "WDR Fernsehen Köln",
       "country": "Germany",
       "quality": "720p",
       "url": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
@@ -10233,7 +10233,7 @@
     },
     {
       "id": "wxs1H0scf0XK4q@de",
-      "name": "WDR Fernsehen M\u00fcnster",
+      "name": "WDR Fernsehen Münster",
       "country": "Germany",
       "quality": "720p",
       "url": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8",
@@ -18938,7 +18938,7 @@
     },
     {
       "id": "GugakTV.kr@SD",
-      "name": "GugakTV \uad6d\uc545\ubc29\uc1a1",
+      "name": "GugakTV 국악방송",
       "country": "Korea",
       "quality": "1080p",
       "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
@@ -18978,7 +18978,7 @@
     },
     {
       "id": "KCTV.kr@SD",
-      "name": "KCTV \uad11\uc8fc CH05 (720p) [Not 24/7]",
+      "name": "KCTV 광주 CH05 (720p) [Not 24/7]",
       "country": "Korea",
       "quality": "720p",
       "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
@@ -19010,7 +19010,7 @@
     },
     {
       "id": "HLAWDTV.kr@SD",
-      "name": "MBC Andong (\uc548\ub3d9 MBC) (360p) [Not 24/7]",
+      "name": "MBC Andong (안동 MBC) (360p) [Not 24/7]",
       "country": "Korea",
       "quality": "360p",
       "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
@@ -19018,7 +19018,7 @@
     },
     {
       "id": "HLANDTV.kr@SD",
-      "name": "MBC Chuncheon (\ucd98\ucc9c MBC) (480p) [Not 24/7]",
+      "name": "MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]",
       "country": "Korea",
       "quality": "480p",
       "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
@@ -19026,7 +19026,7 @@
     },
     {
       "id": "HLAODTV.kr@SD",
-      "name": "MBC Chungbuk (MBC \ucda9\ubd81) (720p) [Not 24/7]",
+      "name": "MBC Chungbuk (MBC 충북) (720p) [Not 24/7]",
       "country": "Korea",
       "quality": "720p",
       "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
@@ -19034,7 +19034,7 @@
     },
     {
       "id": "HLCTDTV.kr@SD",
-      "name": "MBC Daegu (\ub300\uad6c MBC) (480p) [Not 24/7]",
+      "name": "MBC Daegu (대구 MBC) (480p) [Not 24/7]",
       "country": "Korea",
       "quality": "480p",
       "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
@@ -19042,7 +19042,7 @@
     },
     {
       "id": "HLCQDTV.kr@SD",
-      "name": "MBC Daejeon (\ub300\uc804 MBC) (720p) [Not 24/7]",
+      "name": "MBC Daejeon (대전 MBC) (720p) [Not 24/7]",
       "country": "Korea",
       "quality": "720p",
       "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
@@ -19050,7 +19050,7 @@
     },
     {
       "id": "HLAQDTV.kr@SD",
-      "name": "MBC Gangwon (MBC \uac15\uc6d0\uc601\ub3d9) (1080p) [Not 24/7]",
+      "name": "MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",
       "country": "Korea",
       "quality": "1080p",
       "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
@@ -19058,7 +19058,7 @@
     },
     {
       "id": "HLAJDTV.kr@SD",
-      "name": "MBC Jeju (\uc81c\uc8fc MBC) (352p) [Not 24/7]",
+      "name": "MBC Jeju (제주 MBC) (352p) [Not 24/7]",
       "country": "Korea",
       "quality": "352p",
       "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
@@ -19066,7 +19066,7 @@
     },
     {
       "id": "HLAMDTV.kr@SD",
-      "name": "MBC Mokpo (\ubaa9\ud3ec MBC) (720p) [Not 24/7]",
+      "name": "MBC Mokpo (목포 MBC) (720p) [Not 24/7]",
       "country": "Korea",
       "quality": "720p",
       "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
@@ -19074,7 +19074,7 @@
     },
     {
       "id": "HLATDTV.kr@SD",
-      "name": "MBC Yeosu (\uc5ec\uc218 MBC) (1080p) [Not 24/7]",
+      "name": "MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",
       "country": "Korea",
       "quality": "1080p",
       "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
@@ -22082,7 +22082,7 @@
     },
     {
       "id": "mnetsport@MK",
-      "name": "M\u00bbNet Sport",
+      "name": "M»Net Sport",
       "country": "North Macedonia",
       "quality": "720p",
       "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
@@ -24786,7 +24786,7 @@
     },
     {
       "id": "8KkzMzj0gbrJEI@ru",
-      "name": "360\u00b0",
+      "name": "360°",
       "country": "Russia",
       "quality": "720p",
       "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
@@ -24794,7 +24794,7 @@
     },
     {
       "id": "5Piezdkcn8rLT9@ru",
-      "name": "360\u00b0 News",
+      "name": "360° News",
       "country": "Russia",
       "quality": "720p",
       "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
@@ -25605,7 +25605,7 @@
     },
     {
       "id": "0mulGVhtSW9kDC@ru",
-      "name": "RT\u0414",
+      "name": "RTД",
       "country": "Russia",
       "quality": "720p",
       "url": "https://streaming.thestream.cyou/live/554.m3u8",
@@ -26061,7 +26061,7 @@
     },
     {
       "id": "LDv8j64nAQo1e9@ru",
-      "name": "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u043a\u0438\u043d\u043e International",
+      "name": "Детское кино International",
       "country": "Russia",
       "quality": "720p",
       "url": "https://autopilot.catcast.tv/content/38720/index.m3u8",
@@ -26069,7 +26069,7 @@
     },
     {
       "id": "JsbwFfNdUCfjhv@ru",
-      "name": "\u041a\u0438\u043d\u043e 1 International",
+      "name": "Кино 1 International",
       "country": "Russia",
       "quality": "720p",
       "url": "https://autopilot.catcast.tv/content/38617/index.m3u8",
@@ -26077,7 +26077,7 @@
     },
     {
       "id": "7gbCv4uxxssFoR@ru",
-      "name": "\u041c\u0438\u0440 +7",
+      "name": "Мир +7",
       "country": "Russia",
       "quality": "720p",
       "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8",
@@ -26085,7 +26085,7 @@
     },
     {
       "id": "UptrzheOmTQwWu@ru",
-      "name": "\u041c\u0443\u0437\u044b\u043a\u0430 1 International",
+      "name": "Музыка 1 International",
       "country": "Russia",
       "quality": "720p",
       "url": "https://kino-1.catcast.tv/content/37742/index.m3u8",
@@ -26093,7 +26093,7 @@
     },
     {
       "id": "UCMJJw8ybEUxDH@ru",
-      "name": "\u041c\u0443\u0437\u044b\u043a\u0430 \u041a\u0438\u043d\u043e International",
+      "name": "Музыка Кино International",
       "country": "Russia",
       "quality": "720p",
       "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
@@ -26101,7 +26101,7 @@
     },
     {
       "id": "MebfmIDc5IgnOG@ru",
-      "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0415\u0432\u0440\u043e\u043f\u0430",
+      "name": "Первый канал Европа",
       "country": "Russia",
       "quality": "720p",
       "url": "https://streaming.thestream.cyou/live/210.m3u8",
@@ -26109,7 +26109,7 @@
     },
     {
       "id": "X0UpythUDXPOp6@ru",
-      "name": "\u0420\u043e\u0441\u0441\u0438\u044f-\u0420\u0422\u0420",
+      "name": "Россия-РТР",
       "country": "Russia",
       "quality": "720p",
       "url": "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
@@ -27229,7 +27229,7 @@
     },
     {
       "id": "MBJMQo3ahq3SeU@es",
-      "name": "Beyblade en Espa\u00f1ol",
+      "name": "Beyblade en Español",
       "country": "Spain",
       "quality": "720p",
       "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
@@ -27477,7 +27477,7 @@
     },
     {
       "id": "cXG1ys411JhMWW@es",
-      "name": "Cr\u00edmenes Reales",
+      "name": "Crímenes Reales",
       "country": "Spain",
       "quality": "720p",
       "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
@@ -27645,7 +27645,7 @@
     },
     {
       "id": "EGsBwKlWFjIivG@es",
-      "name": "France 24 Espa\u00f1ol",
+      "name": "France 24 Español",
       "country": "Spain",
       "quality": "720p",
       "url": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
@@ -28101,7 +28101,7 @@
     },
     {
       "id": "QsRWuP3lWImATu@es",
-      "name": "TOP Bar\u00e7a Spain",
+      "name": "TOP Barça Spain",
       "country": "Spain",
       "quality": "720p",
       "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8",
@@ -28341,7 +28341,7 @@
     },
     {
       "id": "inazumaelevenpl@",
-      "name": "Inazuma Eleven \u2013 Pluto TV",
+      "name": "Inazuma Eleven – Pluto TV",
       "country": "Sports",
       "quality": "720p",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -28349,7 +28349,7 @@
     },
     {
       "id": "sportplutotv@",
-      "name": "Sport \u2013 Pluto TV",
+      "name": "Sport – Pluto TV",
       "country": "Sports",
       "quality": "720p",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -28381,7 +28381,7 @@
     },
     {
       "id": "unbeatensportsp@",
-      "name": "Unbeaten Sports \u2013 Pluto TV",
+      "name": "Unbeaten Sports – Pluto TV",
       "country": "Sports",
       "quality": "720p",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -30248,7 +30248,7 @@
     },
     {
       "id": "axFoablbn00mt1@ua",
-      "name": "\u00a1Viva Latino!",
+      "name": "¡Viva Latino!",
       "country": "Ukraine",
       "quality": "720p",
       "url": "https://iptv.prosto.tv/ch138/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=8a9f3acf84249fbe&uid=9szoe89y&cs_track=false&e=1783163037&st=907ywHdZsxDhbfHEV52usw",
@@ -31398,7 +31398,7 @@
     },
     {
       "id": "scDZ3wRq1kFeHG@uk",
-      "name": "Pok\u00e9mon",
+      "name": "Pokémon",
       "country": "United Kingdom",
       "quality": "720p",
       "url": "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8",
@@ -36006,7 +36006,7 @@
     },
     {
       "id": "Lva6kJljgBRfvo@us",
-      "name": "It\u2019s Anime",
+      "name": "It’s Anime",
       "country": "United States",
       "quality": "720p",
       "url": "https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8",
@@ -37334,7 +37334,7 @@
     },
     {
       "id": "MajestadTV.us@SD",
-      "name": "Majestad Televisi\u00f3n (480p) [Not 24/7]",
+      "name": "Majestad Televisión (480p) [Not 24/7]",
       "country": "United States",
       "quality": "480p",
       "url": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8",
@@ -38742,7 +38742,7 @@
     },
     {
       "id": "Blq8lxB4p2ATTv@us",
-      "name": "Qu\u00e9 Culpa Tiene Fatmag\u00fcl",
+      "name": "Qué Culpa Tiene Fatmagül",
       "country": "United States",
       "quality": "720p",
       "url": "https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8",
@@ -40278,7 +40278,7 @@
     },
     {
       "id": "uOBKj0aArgHSrb@us",
-      "name": "Telemundo Al D\u00eda",
+      "name": "Telemundo Al Día",
       "country": "United States",
       "quality": "720p",
       "url": "https://d1kq7q3vteqjb.cloudfront.net/master.m3u8",
@@ -42310,7 +42310,7 @@
     },
     {
       "id": "A6eg8xEPVoGZ6F@us",
-      "name": "World\u2019s Most Evil Killers",
+      "name": "World’s Most Evil Killers",
       "country": "United States",
       "quality": "720p",
       "url": "https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8",
@@ -42552,7 +42552,7 @@
     },
     {
       "id": "beINSPORTSXTRAenEspanol.us@SD",
-      "name": "beIN SPORTS XTRA en Espa\u00f1ol",
+      "name": "beIN SPORTS XTRA en Español",
       "country": "United States",
       "quality": "1080p",
       "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
@@ -43366,7 +43366,7 @@
     },
     {
       "id": "beINSPORTSXTRAenEspanolTubi.us@SD",
-      "name": "beIN SPORTS XTRA Espa\u00f1ol (Tubi)",
+      "name": "beIN SPORTS XTRA Español (Tubi)",
       "country": "United States",
       "quality": "1080p",
       "url": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
@@ -45823,7 +45823,7 @@
     },
     {
       "id": "Sportstars@dhanytv",
-      "name": "Sportstars\u1d34\u1d30",
+      "name": "Sportstarsᴴᴰ",
       "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",
@@ -45834,7 +45834,7 @@
     },
     {
       "id": "Sportstars@dhanytv",
-      "name": "Sportstars\u1d34\u1d30 (Alt 2)",
+      "name": "Sportstarsᴴᴰ (Alt 2)",
       "url": "https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",
@@ -45845,7 +45845,7 @@
     },
     {
       "id": "Sportstars 2@dhanytv",
-      "name": "Sportstars 2\u1d34\u1d30",
+      "name": "Sportstars 2ᴴᴰ",
       "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",
@@ -45856,7 +45856,7 @@
     },
     {
       "id": "Sportstars 2@dhanytv",
-      "name": "Sportstars 2\u1d34\u1d30 (Alt 2)",
+      "name": "Sportstars 2ᴴᴰ (Alt 2)",
       "url": "https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",
@@ -45867,7 +45867,7 @@
     },
     {
       "id": "Sportstars 3@dhanytv",
-      "name": "Sportstars 3\u1d34\u1d30",
+      "name": "Sportstars 3ᴴᴰ",
       "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",
@@ -45878,7 +45878,7 @@
     },
     {
       "id": "Sportstars4.id@dhanytv",
-      "name": "Sportstars 4 \u1d34\u1d30",
+      "name": "Sportstars 4 ᴴᴰ",
       "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",
@@ -46427,7 +46427,7 @@
       "name": "Jade Channel 4K",
       "url": "http://cdn6.163189.xyz/163189/fct4k",
       "country": "Indonesia",
-      "logo": "https://live.fanmingming.cn/tv/\u7fe1\u7fe0\u53f04K.png"
+      "logo": "https://live.fanmingming.cn/tv/翡翠台4K.png"
     },
     {
       "id": "auto.tvb.1@dhanytv",
@@ -46437,32 +46437,32 @@
       "logo": "https://cdn.freebiesupply.com/logos/large/2x/tvb-1-logo-png-transparent.png"
     },
     {
-      "id": "\u51e4\u51f0\u4e2d\u6587@dhanytv",
+      "id": "凤凰中文@dhanytv",
       "name": "Phoenix China HD",
       "url": "http://cdn6.163189.xyz/163189/fhzw",
       "country": "Indonesia",
-      "logo": "https://live.fanmingming.cn/tv/\u51e4\u51f0\u536b\u89c6\u4e2d\u6587\u53f0.png"
+      "logo": "https://live.fanmingming.cn/tv/凤凰卫视中文台.png"
     },
     {
-      "id": "\u51e4\u51f0\u8d44\u8baf@dhanytv",
+      "id": "凤凰资讯@dhanytv",
       "name": "Phoenix Info HD",
       "url": "http://cdn6.163189.xyz/163189/fhzx",
       "country": "Indonesia",
-      "logo": "https://live.fanmingming.cn/tv/\u51e4\u51f0\u536b\u89c6\u8d44\u8baf\u53f0.png"
+      "logo": "https://live.fanmingming.cn/tv/凤凰卫视资讯台.png"
     },
     {
-      "id": "\u51e4\u51f0\u9999\u6e2f@dhanytv",
+      "id": "凤凰香港@dhanytv",
       "name": "Phoenix Hongkong",
       "url": "http://cdn6.163189.xyz/163189/fhhk",
       "country": "Indonesia",
-      "logo": "https://live.fanmingming.cn/tv/\u51e4\u51f0\u536b\u89c6\u9999\u6e2f\u53f0.png"
+      "logo": "https://live.fanmingming.cn/tv/凤凰卫视香港台.png"
     },
     {
       "id": "auto.macau.variety.show@dhanytv",
       "name": "Macau Variety Show",
       "url": "http://cdn6.163189.xyz/163189/amzy",
       "country": "Indonesia",
-      "logo": "https://live.fanmingming.cn/tv/\u6fb3\u95e8\u7efc\u827a.png"
+      "logo": "https://live.fanmingming.cn/tv/澳门综艺.png"
     },
     {
       "id": "Jiangsu TV@dhanytv",
@@ -47415,14 +47415,14 @@
     },
     {
       "id": "CaMauTV.vn@SD@dhanytv",
-      "name": "C\u00e0 Mau TV (720p) [Geo-blocked]",
+      "name": "Cà Mau TV (720p) [Geo-blocked]",
       "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
       "country": "Indonesia",
       "logo": null
     },
     {
       "id": "CanThoTV2.vn@SD@dhanytv",
-      "name": "C\u1ea7n Th\u01a1 TV2 (1080p)",
+      "name": "Cần Thơ TV2 (1080p)",
       "url": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8",
       "country": "Indonesia",
       "logo": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png"
@@ -47530,7 +47530,7 @@
     },
     {
       "id": "CekmekoyTV.tr@SD@dhanytv",
-      "name": "Cekmek\u00f6y TV (1080p)",
+      "name": "Cekmeköy TV (1080p)",
       "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/sjAGFWu.png"
@@ -48120,7 +48120,7 @@
     },
     {
       "id": "AlerteaMalibu.us@France@dhanytv",
-      "name": "Alerte \u00e0 Malibu",
+      "name": "Alerte à Malibu",
       "url": "https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/hBiB6uk.png"
@@ -48486,21 +48486,21 @@
     },
     {
       "id": "Channel12.ru@SD@dhanytv",
-      "name": "12 \u043a\u0430\u043d\u0430\u043b (1080p)",
+      "name": "12 канал (1080p)",
       "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/OA9hm6e.png"
     },
     {
       "id": "360.ru@SD@dhanytv",
-      "name": "360\u00b0 (1080p)",
+      "name": "360° (1080p)",
       "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/VTJqdoX.png"
     },
     {
       "id": "365daysTV.ru@SD@dhanytv",
-      "name": "365 \u0414\u043d\u0435\u0439 (576p)",
+      "name": "365 Дней (576p)",
       "url": "http://31.148.48.15/365_dney/index.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/NfnAiTR.png"
@@ -48908,7 +48908,7 @@
     },
     {
       "id": "GugakTV.kr_SD@dhanytv",
-      "name": "GugakTV \uad6d\uc545\ubc29\uc1a1 (1080p)",
+      "name": "GugakTV 국악방송 (1080p)",
       "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/Ey7Htm8.png"
@@ -49090,21 +49090,21 @@
     },
     {
       "id": "CanThoTV.vn_SD@dhanytv",
-      "name": "C\u1ea7n Th\u01a1 TV1 (1080p)",
+      "name": "Cần Thơ TV1 (1080p)",
       "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.ibb.co/MDhNH26J/cantho1-2025.png"
     },
     {
       "id": "CanThoTV3.vn_SD@dhanytv",
-      "name": "C\u1ea7n Th\u01a1 TV3 (1080p)",
+      "name": "Cần Thơ TV3 (1080p)",
       "url": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png"
     },
     {
       "id": "CaoBangTV.vn_SD@dhanytv",
-      "name": "Cao B\u1eb1ng TV (720p)",
+      "name": "Cao Bằng TV (720p)",
       "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/dGonewm.png"
@@ -49453,7 +49453,7 @@
     },
     {
       "id": "AllgauTV.de_SD@dhanytv",
-      "name": "Allg\u00e4u TV (1080p)",
+      "name": "Allgäu TV (1080p)",
       "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png"
@@ -49474,7 +49474,7 @@
     },
     {
       "id": "BadenTVSud.de_SD@dhanytv",
-      "name": "Baden TV S\u00fcd (480p)",
+      "name": "Baden TV Süd (480p)",
       "url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png"
@@ -49530,7 +49530,7 @@
     },
     {
       "id": "MrBeanAnimated.uk_FR@dhanytv",
-      "name": "Banijay Mr Bean Anim\u00e9 (1080p)",
+      "name": "Banijay Mr Bean Animé (1080p)",
       "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png"
@@ -49544,14 +49544,14 @@
     },
     {
       "id": "3CatCameresdeltemps.es_SD@dhanytv",
-      "name": "3Cat C\u00e0meres del temps (1080p)",
+      "name": "3Cat Càmeres del temps (1080p)",
       "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/zXy2kbe.png"
     },
     {
       "id": "3CatElbunquer.es_SD@dhanytv",
-      "name": "3Cat El b\u00fanquer (1080p)",
+      "name": "3Cat El búnquer (1080p)",
       "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/wiqdIjd.png"
@@ -49659,7 +49659,7 @@
     },
     {
       "id": "CanalEducacao.br_SD@dhanytv",
-      "name": "Canal Educa\u00e7\u00e3o (720p)",
+      "name": "Canal Educação (720p)",
       "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/OOB7nrS.png"
@@ -49722,7 +49722,7 @@
     },
     {
       "id": "ArgentinisimaSatelital.ar_SD@dhanytv",
-      "name": "Argentin\u00edsima Satelital (540p)",
+      "name": "Argentinísima Satelital (540p)",
       "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/xFgJawa.png"
@@ -49764,7 +49764,7 @@
     },
     {
       "id": "360News.ru_SD@dhanytv",
-      "name": "360\u00b0 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 (1080p)",
+      "name": "360° Новости (1080p)",
       "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
       "country": "Indonesia",
       "logo": "https://i.imgur.com/YXDeX8q.png"
@@ -49905,7 +49905,7 @@
     },
     {
       "id": "9ba708423acf91@webcam",
-      "name": "Germany - Airport D\u00fcsseldorf 2",
+      "name": "Germany - Airport Düsseldorf 2",
       "url": "http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -49913,7 +49913,7 @@
     },
     {
       "id": "94e044e9d55beb@webcam",
-      "name": "Germany - Airport D\u00fcsseldorf 3",
+      "name": "Germany - Airport Düsseldorf 3",
       "url": "http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -49921,7 +49921,7 @@
     },
     {
       "id": "0786d97470e0cd@webcam",
-      "name": "Germany - Airport D\u00fcsseldorf 4",
+      "name": "Germany - Airport Düsseldorf 4",
       "url": "http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -49929,7 +49929,7 @@
     },
     {
       "id": "990cd0a46a2f1f@webcam",
-      "name": "Germany - Airport D\u00fcsseldorf 5",
+      "name": "Germany - Airport Düsseldorf 5",
       "url": "http://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -49937,7 +49937,7 @@
     },
     {
       "id": "bcc11576f88e10@webcam",
-      "name": "Germany - Airport K\u00f6ln-Bonn 3",
+      "name": "Germany - Airport Köln-Bonn 3",
       "url": "http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50209,7 +50209,7 @@
     },
     {
       "id": "a31765309e9029@webcam",
-      "name": "UK - \u041f\u0438\u043d\u0433\u0432\u0438\u043d\u044b",
+      "name": "UK - Пингвины",
       "url": "http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50241,7 +50241,7 @@
     },
     {
       "id": "ba49a75bb672fd@webcam",
-      "name": "USA - \u041a\u043e\u0440\u043c\u0443\u0448\u043a\u0430",
+      "name": "USA - Кормушка",
       "url": "http://live.idnes.cz/slow/krmitkousa/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50249,7 +50249,7 @@
     },
     {
       "id": "63a777e52c3432@webcam",
-      "name": "\u0411\u0435\u043b\u043e\u044f\u0440\u0441\u043a\u0438\u0439 1",
+      "name": "Белоярский 1",
       "url": "https://cctv.kpmelnica.ru/camera7.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50257,7 +50257,7 @@
     },
     {
       "id": "9eea1550536ac2@webcam",
-      "name": "\u0411\u0435\u043b\u043e\u044f\u0440\u0441\u043a\u0438\u0439 2",
+      "name": "Белоярский 2",
       "url": "https://cctv.kpmelnica.ru/camera1.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50265,7 +50265,7 @@
     },
     {
       "id": "db2e210304ffa1@webcam",
-      "name": "\u0411\u0435\u043b\u043e\u044f\u0440\u0441\u043a\u0438\u0439 3",
+      "name": "Белоярский 3",
       "url": "https://cctv.kpmelnica.ru/camera2.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50273,7 +50273,7 @@
     },
     {
       "id": "198e4263cf49dc@webcam",
-      "name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a 1",
+      "name": "Благовещенск 1",
       "url": "http://hls3.bashtel.ru/hls/cam313.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50281,7 +50281,7 @@
     },
     {
       "id": "066c770e5f6855@webcam",
-      "name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a 5",
+      "name": "Благовещенск 5",
       "url": "http://hls3.bashtel.ru/hls/cam312.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50289,7 +50289,7 @@
     },
     {
       "id": "e775968c52de89@webcam",
-      "name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a 7",
+      "name": "Благовещенск 7",
       "url": "http://hls3.bashtel.ru/hls/cam301.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50297,7 +50297,7 @@
     },
     {
       "id": "9bfbc9ebd33150@webcam",
-      "name": "\u0411\u0443\u0437\u0443\u043b\u0443\u043a 1",
+      "name": "Бузулук 1",
       "url": "https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel1/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50305,7 +50305,7 @@
     },
     {
       "id": "10e19b73113a06@webcam",
-      "name": "\u0411\u0443\u0437\u0443\u043b\u0443\u043a 2",
+      "name": "Бузулук 2",
       "url": "https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel2/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50313,7 +50313,7 @@
     },
     {
       "id": "49bce015965dc0@webcam",
-      "name": "\u0411\u0443\u0437\u0443\u043b\u0443\u043a 3",
+      "name": "Бузулук 3",
       "url": "https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel4/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50321,7 +50321,7 @@
     },
     {
       "id": "f6c8c9019e99a1@webcam",
-      "name": "\u0411\u0443\u0437\u0443\u043b\u0443\u043a 4",
+      "name": "Бузулук 4",
       "url": "https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel5/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50329,7 +50329,7 @@
     },
     {
       "id": "e3793f20890e42@webcam",
-      "name": "\u0411\u0443\u0437\u0443\u043b\u0443\u043a 5",
+      "name": "Бузулук 5",
       "url": "https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel3/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50337,7 +50337,7 @@
     },
     {
       "id": "2f6e01053f7822@webcam",
-      "name": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041f\u044b\u0448\u043c\u0430 3",
+      "name": "Верхняя Пышма 3",
       "url": "http://31.131.80.2:8080/c6375ebf-9804-47e6-983a-97711a213ced/mono.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50345,7 +50345,7 @@
     },
     {
       "id": "29a4b0ada67c51@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 2",
+      "name": "Владивосток 2",
       "url": "http://hls7.vladlink.ru/live/vlcam_513/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50353,7 +50353,7 @@
     },
     {
       "id": "a24b8f8ae1354b@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 3",
+      "name": "Владивосток 3",
       "url": "http://hls7.vladlink.ru/live/vlcam_94/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50361,7 +50361,7 @@
     },
     {
       "id": "d76064c185faca@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 5",
+      "name": "Владивосток 5",
       "url": "http://hls7.vladlink.ru/live/vlcam_117/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50369,7 +50369,7 @@
     },
     {
       "id": "b4edc98957fd6c@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 6",
+      "name": "Владивосток 6",
       "url": "http://hls7.vladlink.ru/live/vlcam_84/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50377,7 +50377,7 @@
     },
     {
       "id": "76c27eff1e4c19@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 6",
+      "name": "Владивосток 6",
       "url": "http://hls7.vladlink.ru/live/vlcam_42/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50385,7 +50385,7 @@
     },
     {
       "id": "752b83437ab579@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 7",
+      "name": "Владивосток 7",
       "url": "http://hls7.vladlink.ru/live/vlcam_77/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50393,7 +50393,7 @@
     },
     {
       "id": "f1bc87e7bac0ec@webcam",
-      "name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a 8",
+      "name": "Владивосток 8",
       "url": "http://hls7.vladlink.ru/live/vlcam_58/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50401,7 +50401,7 @@
     },
     {
       "id": "033749e2806382@webcam",
-      "name": "\u0412\u043e\u043b\u043e\u0433\u0434\u0430 1",
+      "name": "Вологда 1",
       "url": "https://yes35.ru/web/webcam-1/webcam.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50409,7 +50409,7 @@
     },
     {
       "id": "39404bce86296c@webcam",
-      "name": "\u0412\u043e\u043b\u043e\u0433\u0434\u0430 2",
+      "name": "Вологда 2",
       "url": "https://yes35.ru/web/webcam-3/webcam.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50417,7 +50417,7 @@
     },
     {
       "id": "1af1d042465b24@webcam",
-      "name": "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0436\u0441\u043a - \u0443\u043b.\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
+      "name": "Всеволожск - ул.Александровская",
       "url": "http://109.230.128.131:8080/alexandrovskaya80/tracks-v1/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50425,7 +50425,7 @@
     },
     {
       "id": "de351d14cbe553@webcam",
-      "name": "\u0413\u0430\u0439 1",
+      "name": "Гай 1",
       "url": "http://gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50433,7 +50433,7 @@
     },
     {
       "id": "a51e9bea692035@webcam",
-      "name": "\u0413\u0430\u0439 3",
+      "name": "Гай 3",
       "url": "http://gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50441,7 +50441,7 @@
     },
     {
       "id": "4403bf6d16f132@webcam",
-      "name": "\u0415\u0439\u0441\u043a 1",
+      "name": "Ейск 1",
       "url": "http://195.110.52.71/cam9/stream.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50449,7 +50449,7 @@
     },
     {
       "id": "416bf6f790da82@webcam",
-      "name": "\u0415\u0439\u0441\u043a 2",
+      "name": "Ейск 2",
       "url": "http://195.110.52.71/cam8/stream.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50457,7 +50457,7 @@
     },
     {
       "id": "07d7978061a89a@webcam",
-      "name": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+      "name": "Ирландия",
       "url": "http://cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50465,7 +50465,7 @@
     },
     {
       "id": "cf8f6b5546cec2@webcam",
-      "name": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "name": "Испания",
       "url": "https://cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50473,7 +50473,7 @@
     },
     {
       "id": "7b599cc31c758f@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 1",
+      "name": "Кашира 1",
       "url": "http://cam.kashira.ru/hls/cam11.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50481,7 +50481,7 @@
     },
     {
       "id": "ddb1a9d08de994@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 2",
+      "name": "Кашира 2",
       "url": "http://cam.kashira.ru/hls/cam8.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50489,7 +50489,7 @@
     },
     {
       "id": "47a73912f8347e@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 3",
+      "name": "Кашира 3",
       "url": "http://cam.kashira.ru/hls/cam2.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50497,7 +50497,7 @@
     },
     {
       "id": "a9b5cbcd42ea41@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 3",
+      "name": "Кашира 3",
       "url": "http://cam.kashira.ru/hls/cam10.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50505,7 +50505,7 @@
     },
     {
       "id": "6844c091108c47@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 4",
+      "name": "Кашира 4",
       "url": "http://cam.kashira.ru/hls/cam3.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50513,7 +50513,7 @@
     },
     {
       "id": "d713ad0f23b193@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 5",
+      "name": "Кашира 5",
       "url": "http://cam.kashira.ru/hls/cam13.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50521,7 +50521,7 @@
     },
     {
       "id": "25552fb8b79683@webcam",
-      "name": "\u041a\u0430\u0448\u0438\u0440\u0430 6",
+      "name": "Кашира 6",
       "url": "http://cam.kashira.ru/hls/cam1.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50529,7 +50529,7 @@
     },
     {
       "id": "bb36bbdb4540d5@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 1",
+      "name": "Кировоград 1",
       "url": "http://webcam.shtorm.com/camera/CAM12/12.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50537,7 +50537,7 @@
     },
     {
       "id": "a8c6849431d058@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 2",
+      "name": "Кировоград 2",
       "url": "http://webcam.shtorm.com/camera/CAM14/14.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50545,7 +50545,7 @@
     },
     {
       "id": "2d228de76451d0@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 3",
+      "name": "Кировоград 3",
       "url": "http://webcam.shtorm.com/camera/CAM15/15.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50553,7 +50553,7 @@
     },
     {
       "id": "e1e523630ba944@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 4",
+      "name": "Кировоград 4",
       "url": "http://webcam.shtorm.com/camera/CAM16/16.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50561,7 +50561,7 @@
     },
     {
       "id": "203db675e5e9d6@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 5",
+      "name": "Кировоград 5",
       "url": "http://webcam.shtorm.com/camera/CAM18/18.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50569,7 +50569,7 @@
     },
     {
       "id": "6e977d2bf5018b@webcam",
-      "name": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434 6",
+      "name": "Кировоград 6",
       "url": "http://webcam.shtorm.com/camera/CAM17/17.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50577,7 +50577,7 @@
     },
     {
       "id": "ca9ae75825750c@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a - \u0411\u043e\u0431\u0440\u043e\u0432\u044b\u0439 \u041b\u043e\u0433 1",
+      "name": "Красноярск - Бобровый Лог 1",
       "url": "http://62.213.36.148:1935/live/kkd2-bot.stream/chunklist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50585,7 +50585,7 @@
     },
     {
       "id": "98ca4d5e8e64f4@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a - \u0411\u043e\u0431\u0440\u043e\u0432\u044b\u0439 \u041b\u043e\u0433 2",
+      "name": "Красноярск - Бобровый Лог 2",
       "url": "http://62.213.36.148:1935/live/cam72.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50593,7 +50593,7 @@
     },
     {
       "id": "3bac3302f514dd@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a - \u0411\u043e\u0431\u0440\u043e\u0432\u044b\u0439 \u041b\u043e\u0433 3",
+      "name": "Красноярск - Бобровый Лог 3",
       "url": "http://62.213.36.148:1935/live/kkd1-top.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50601,7 +50601,7 @@
     },
     {
       "id": "f74e84a8d7c007@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a 14",
+      "name": "Красноярск 14",
       "url": "http://irkvideo1.orionnet.online/cam2893/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50609,7 +50609,7 @@
     },
     {
       "id": "ba63af0455d9d0@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a 15",
+      "name": "Красноярск 15",
       "url": "http://irkvideo1.orionnet.online/cam3042/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50617,7 +50617,7 @@
     },
     {
       "id": "f0a2af6c162f84@webcam",
-      "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a 5",
+      "name": "Красноярск 5",
       "url": "http://krkvideo7.orionnet.online/cam16/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50625,7 +50625,7 @@
     },
     {
       "id": "26a6b35865a602@webcam",
-      "name": "\u041b\u0430\u0442\u0432\u0438\u044f",
+      "name": "Латвия",
       "url": "https://s1.worldcam.live:8082/guntizzz/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50633,7 +50633,7 @@
     },
     {
       "id": "04fd0c2a686460@webcam",
-      "name": "\u041b\u0438\u0442\u0432\u0430 - \u0412\u0438\u043b\u044c\u043d\u044e\u0441",
+      "name": "Литва - Вильнюс",
       "url": "https://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50641,7 +50641,7 @@
     },
     {
       "id": "5005644d16a278@webcam",
-      "name": "\u041b\u0438\u0442\u0432\u0430 - \u041a\u0430\u0443\u043d\u0430\u0441",
+      "name": "Литва - Каунас",
       "url": "https://s1.worldcam.live:8082/kaunas/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50649,7 +50649,7 @@
     },
     {
       "id": "ef0e612ab6cfe0@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+      "name": "Люксембург",
       "url": "http://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50657,7 +50657,7 @@
     },
     {
       "id": "76fe7c95b143fb@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+      "name": "Люксембург",
       "url": "http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50665,7 +50665,7 @@
     },
     {
       "id": "78fe218a0f3bac@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 2",
+      "name": "Люксембург 2",
       "url": "https://live-edge.rtl.lu/aclwebcams/aclcamhh2.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50673,7 +50673,7 @@
     },
     {
       "id": "9db2b395f0ae53@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 3",
+      "name": "Люксембург 3",
       "url": "https://live-edge.rtl.lu/aclwebcams/aclcamhh1.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50681,7 +50681,7 @@
     },
     {
       "id": "bc537cb015d697@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 4",
+      "name": "Люксембург 4",
       "url": "http://live-edge.rtl.lu/cita/cita_a7/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50689,7 +50689,7 @@
     },
     {
       "id": "2f6e01a4f8f54e@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 5",
+      "name": "Люксембург 5",
       "url": "http://live-edge.rtl.lu/cita/cita_a13/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50697,7 +50697,7 @@
     },
     {
       "id": "0c4dc3d0740d0f@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 6",
+      "name": "Люксембург 6",
       "url": "http://live-edge.rtl.lu/cita/cita_a6/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50705,7 +50705,7 @@
     },
     {
       "id": "fda9dcd3164fe5@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 7",
+      "name": "Люксембург 7",
       "url": "http://live-edge.rtl.lu/cita/cita_a4/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50713,7 +50713,7 @@
     },
     {
       "id": "e77d402eaf8d68@webcam",
-      "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 8",
+      "name": "Люксембург 8",
       "url": "http://live-edge.rtl.lu/cita/cita_a3/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50721,7 +50721,7 @@
     },
     {
       "id": "da776a886fc748@webcam",
-      "name": "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a 1",
+      "name": "Медногорск 1",
       "url": "https://live2-orsk.cdnvideo.ru/orsk-mednogorsk/mednogorsk1/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50729,7 +50729,7 @@
     },
     {
       "id": "fddc18a75826b9@webcam",
-      "name": "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a 2",
+      "name": "Медногорск 2",
       "url": "https://live2-orsk.cdnvideo.ru/orsk-mednogorsk/mednogorsk2/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50737,7 +50737,7 @@
     },
     {
       "id": "85e580eea70878@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 19",
+      "name": "Москва 19",
       "url": "https://cameras.inetcom.ru/hls/camera12_11.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50745,7 +50745,7 @@
     },
     {
       "id": "ec891d3b7b6fb7@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 21",
+      "name": "Москва 21",
       "url": "https://cameras.inetcom.ru/hls/camera12_1.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50753,7 +50753,7 @@
     },
     {
       "id": "67fa2c84741c9a@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 22",
+      "name": "Москва 22",
       "url": "https://cameras.inetcom.ru/hls/camera12_4.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50761,7 +50761,7 @@
     },
     {
       "id": "09ef000cd51b2e@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 23",
+      "name": "Москва 23",
       "url": "https://cameras.inetcom.ru/hls/camera12_6.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50769,7 +50769,7 @@
     },
     {
       "id": "2b3d91139737be@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 25",
+      "name": "Москва 25",
       "url": "https://cameras.inetcom.ru/hls/camera12_8.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50777,7 +50777,7 @@
     },
     {
       "id": "e2dd88b937835f@webcam",
-      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 4",
+      "name": "Москва 4",
       "url": "https://cameras.inetcom.ru/hls/camera12_3.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50785,7 +50785,7 @@
     },
     {
       "id": "b39782529a1ba1@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 1",
+      "name": "Нидерланды - Схевенинген 1",
       "url": "http://live.streamink.nl/live/sys1.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50793,7 +50793,7 @@
     },
     {
       "id": "cb1abcce7e0e5c@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 10",
+      "name": "Нидерланды - Схевенинген 10",
       "url": "http://live.streamink.nl/live/sys19.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50801,7 +50801,7 @@
     },
     {
       "id": "a4d45aefbb66b8@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 2",
+      "name": "Нидерланды - Схевенинген 2",
       "url": "http://live.streamink.nl/live/sys2.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50809,7 +50809,7 @@
     },
     {
       "id": "26ae854b039780@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 3",
+      "name": "Нидерланды - Схевенинген 3",
       "url": "http://live.streamink.nl/live/sys3.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50817,7 +50817,7 @@
     },
     {
       "id": "d50acefb6bad13@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 4",
+      "name": "Нидерланды - Схевенинген 4",
       "url": "http://live.streamink.nl/live/sys4.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50825,7 +50825,7 @@
     },
     {
       "id": "5856f026b0e9a8@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 5",
+      "name": "Нидерланды - Схевенинген 5",
       "url": "http://live.streamink.nl/live/sys5.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50833,7 +50833,7 @@
     },
     {
       "id": "175e8d0a8f0a97@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 7",
+      "name": "Нидерланды - Схевенинген 7",
       "url": "http://live.streamink.nl/live/sys7.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50841,7 +50841,7 @@
     },
     {
       "id": "fd4b3c049d455a@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 8",
+      "name": "Нидерланды - Схевенинген 8",
       "url": "http://live.streamink.nl/live/sys8.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50849,7 +50849,7 @@
     },
     {
       "id": "80c50256a87585@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b - \u0421\u0445\u0435\u0432\u0435\u043d\u0438\u043d\u0433\u0435\u043d 9",
+      "name": "Нидерланды - Схевенинген 9",
       "url": "http://live.streamink.nl/live/sys11.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50857,7 +50857,7 @@
     },
     {
       "id": "12e733b11728e5@webcam",
-      "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b 1",
+      "name": "Нидерланды 1",
       "url": "https://5b8d2cbe62ad6.streamlock.net/live/eernewoude.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50865,7 +50865,7 @@
     },
     {
       "id": "2e55f676ffadde@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 1",
+      "name": "Ноябрьск 1",
       "url": "http://camera.global-x.ru:80/CAM_Lenina-35/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50873,7 +50873,7 @@
     },
     {
       "id": "a977cda94779ab@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 10",
+      "name": "Ноябрьск 10",
       "url": "http://camera.global-x.ru:80/CAM_Iziskatelei-Visotskogo/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50881,7 +50881,7 @@
     },
     {
       "id": "5f1838ae61b251@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 11",
+      "name": "Ноябрьск 11",
       "url": "http://camera.global-x.ru:80/CAM_Coya_21/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50889,7 +50889,7 @@
     },
     {
       "id": "b7c5db27aff09f@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 13",
+      "name": "Ноябрьск 13",
       "url": "http://camera.global-x.ru:80/CAM_Visotskogo-Magistralnaya/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50897,7 +50897,7 @@
     },
     {
       "id": "f019ccfcbfd50b@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 2",
+      "name": "Ноябрьск 2",
       "url": "http://camera.global-x.ru:80/CAM_Lenina-39/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50905,7 +50905,7 @@
     },
     {
       "id": "17bc1f43066720@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 4",
+      "name": "Ноябрьск 4",
       "url": "http://camera.global-x.ru/CAM_Sovetskaya-101/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50913,7 +50913,7 @@
     },
     {
       "id": "1d504ed37f09e8@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 6",
+      "name": "Ноябрьск 6",
       "url": "http://camera.global-x.ru:80/CAM_Train/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50921,7 +50921,7 @@
     },
     {
       "id": "315af2033fd087@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 7",
+      "name": "Ноябрьск 7",
       "url": "http://camera.global-x.ru:80/CAM_Gazprom/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50929,7 +50929,7 @@
     },
     {
       "id": "cb08233acc090e@webcam",
-      "name": "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a 9",
+      "name": "Ноябрьск 9",
       "url": "http://camera.global-x.ru:80/CAM_Park/index.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50937,7 +50937,7 @@
     },
     {
       "id": "62ab816ff46f1f@webcam",
-      "name": "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d - \u0422\u0420\u0426 \u0425\u0430\u043d \u0428\u0430\u0442\u044b\u0440",
+      "name": "Нур-Султан - ТРЦ Хан Шатыр",
       "url": "http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50945,7 +50945,7 @@
     },
     {
       "id": "a4d0299fdd3e6e@webcam",
-      "name": "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d - \u0422\u0420\u0426 \u0425\u0430\u043d \u0428\u0430\u0442\u044b\u0440 2",
+      "name": "Нур-Султан - ТРЦ Хан Шатыр 2",
       "url": "http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50953,7 +50953,7 @@
     },
     {
       "id": "13bf565cb81c40@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 10",
+      "name": "Оренбург 10",
       "url": "http://pobedy.camsh.1743.ru/hls/pobedy-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50961,7 +50961,7 @@
     },
     {
       "id": "80eb77df505eae@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 12",
+      "name": "Оренбург 12",
       "url": "http://mira-gagarina.camsh.1743.ru/hls/mira-gagarina-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50969,7 +50969,7 @@
     },
     {
       "id": "09cfdea7392d55@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 13",
+      "name": "Оренбург 13",
       "url": "http://chkalov.camsh.1743.ru/hls/chkalov-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50977,7 +50977,7 @@
     },
     {
       "id": "1b45d2b2b464b9@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 14",
+      "name": "Оренбург 14",
       "url": "http://gazovik.camsh.1743.ru/hls/gazovik-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50985,7 +50985,7 @@
     },
     {
       "id": "8b37a6ecd5d0cf@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 15",
+      "name": "Оренбург 15",
       "url": "http://salmyshskaya.camsh.1743.ru/hls/salmyshskaya-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -50993,7 +50993,7 @@
     },
     {
       "id": "baf91cd324f7a5@webcam",
-      "name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 9",
+      "name": "Оренбург 9",
       "url": "http://sberbank.camsh.1743.ru/hls/sberbank-sd.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51001,7 +51001,7 @@
     },
     {
       "id": "d36947a9e85e88@webcam",
-      "name": "\u041e\u0440\u0441\u043a 1",
+      "name": "Орск 1",
       "url": "http://kljuch.camsh.orsk.ru/hls/kljuch.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51009,7 +51009,7 @@
     },
     {
       "id": "993c2376c7cf1b@webcam",
-      "name": "\u041e\u0440\u0441\u043a 11",
+      "name": "Орск 11",
       "url": "http://komsomolskaya.camsh.orsk.ru/hls/komsomolskaya.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51017,7 +51017,7 @@
     },
     {
       "id": "0c991ea5e7074e@webcam",
-      "name": "\u041e\u0440\u0441\u043a 12",
+      "name": "Орск 12",
       "url": "http://suvorova.camsh.orsk.ru/hls/suvorova.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51025,7 +51025,7 @@
     },
     {
       "id": "4afd8fb6edb901@webcam",
-      "name": "\u041e\u0440\u0441\u043a 13",
+      "name": "Орск 13",
       "url": "http://mira-kramatorskaya.camsh.orsk.ru/hls/mira-kramatorskaya.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51033,7 +51033,7 @@
     },
     {
       "id": "14af91ce52d6f6@webcam",
-      "name": "\u041e\u0440\u0441\u043a 14",
+      "name": "Орск 14",
       "url": "http://shevchenko2.camsh.orsk.ru/hls/shevchenko2.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51041,7 +51041,7 @@
     },
     {
       "id": "9b8846b4555664@webcam",
-      "name": "\u041e\u0440\u0441\u043a 15",
+      "name": "Орск 15",
       "url": "http://shevchenko.camsh.orsk.ru/hls/shevchenko.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51049,7 +51049,7 @@
     },
     {
       "id": "0b4e58cd6d3476@webcam",
-      "name": "\u041e\u0440\u0441\u043a 16",
+      "name": "Орск 16",
       "url": "http://ctc.camsh.orsk.ru/hls/ctc.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51057,7 +51057,7 @@
     },
     {
       "id": "f67949f5805309@webcam",
-      "name": "\u041e\u0440\u0441\u043a 18",
+      "name": "Орск 18",
       "url": "http://neftyanik.camsh.orsk.ru/hls/neftyanik.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51065,7 +51065,7 @@
     },
     {
       "id": "9c2824bef29736@webcam",
-      "name": "\u041e\u0440\u0441\u043a 3",
+      "name": "Орск 3",
       "url": "http://vizazh.camsh.orsk.ru/hls/vizazh.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51073,7 +51073,7 @@
     },
     {
       "id": "4a83da81d37b6f@webcam",
-      "name": "\u041e\u0440\u0441\u043a 4",
+      "name": "Орск 4",
       "url": "http://lenkom.camsh.orsk.ru/hls/lenkom.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51081,7 +51081,7 @@
     },
     {
       "id": "98ad4d301db64f@webcam",
-      "name": "\u041e\u0440\u0441\u043a 5",
+      "name": "Орск 5",
       "url": "http://tagilskaya.camsh.orsk.ru/hls/tagilskaya.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51089,7 +51089,7 @@
     },
     {
       "id": "303c9459f4bc9e@webcam",
-      "name": "\u041e\u0440\u0441\u043a 6",
+      "name": "Орск 6",
       "url": "http://komsomolskaya2.camsh.orsk.ru/hls/komsomolskaya2.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51097,7 +51097,7 @@
     },
     {
       "id": "33208769343234@webcam",
-      "name": "\u041e\u0440\u0441\u043a 8",
+      "name": "Орск 8",
       "url": "http://central-park.camsh.orsk.ru/hls/central-park.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51105,7 +51105,7 @@
     },
     {
       "id": "b95c32490984a5@webcam",
-      "name": "\u041e\u0440\u0441\u043a 9",
+      "name": "Орск 9",
       "url": "http://avangard2.camsh.orsk.ru/hls/avangard2.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51113,7 +51113,7 @@
     },
     {
       "id": "a0dc59bc412a9b@webcam",
-      "name": "\u041f\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 2",
+      "name": "Полевской 2",
       "url": "http://31.131.80.2:8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51121,7 +51121,7 @@
     },
     {
       "id": "c320638ebfc7c9@webcam",
-      "name": "\u041f\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 3",
+      "name": "Полевской 3",
       "url": "http://31.131.80.2:8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51129,7 +51129,7 @@
     },
     {
       "id": "f519cb62bb494c@webcam",
-      "name": "\u041f\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 5",
+      "name": "Полевской 5",
       "url": "http://31.131.80.2:8080/Polevskoj.2mkr-36bb48610c/mono.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51137,7 +51137,7 @@
     },
     {
       "id": "240c559dd7a9bf@webcam",
-      "name": "\u041f\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 6",
+      "name": "Полевской 6",
       "url": "http://31.131.80.2:8080/7e7cb479-4f36-4ebf-9177-f1fea1050d8d/mono.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51145,7 +51145,7 @@
     },
     {
       "id": "f1879cfe00a5b1@webcam",
-      "name": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u0413\u0434\u0430\u043d\u044c\u0441\u043a 2",
+      "name": "Польша - Гданьск 2",
       "url": "https://kamera.task.gda.pl/rtplive/k109.sdp/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51153,7 +51153,7 @@
     },
     {
       "id": "54b2b38803473a@webcam",
-      "name": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u0413\u0434\u044b\u043d\u044f",
+      "name": "Польша - Гдыня",
       "url": "https://kamera.task.gda.pl/rtplive/k015.sdp/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51161,7 +51161,7 @@
     },
     {
       "id": "11ce6f10bd147f@webcam",
-      "name": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u0413\u0434\u044b\u043d\u044f 2",
+      "name": "Польша - Гдыня 2",
       "url": "https://kamera.task.gda.pl/rtplive/k016.sdp/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51169,7 +51169,7 @@
     },
     {
       "id": "99cd2af38227ea@webcam",
-      "name": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u041c\u0438\u043a\u043e\u0448\u0435\u0432\u043e",
+      "name": "Польша - Микошево",
       "url": "https://kamera.task.gda.pl/rtplive/mikoszewo.sdp/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51177,7 +51177,7 @@
     },
     {
       "id": "b65ce47c5c5f03@webcam",
-      "name": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u0421\u043e\u043f\u043e\u0442",
+      "name": "Польша - Сопот",
       "url": "https://kamera.task.gda.pl/rtplive/molo.sdp/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51185,7 +51185,7 @@
     },
     {
       "id": "1f80b7e48e753d@webcam",
-      "name": "\u0421\u0428\u0410 - \u0411\u0435\u0433\u0435\u043c\u043e\u0442\u044b",
+      "name": "США - Бегемоты",
       "url": "https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51193,7 +51193,7 @@
     },
     {
       "id": "d1792801dc55d3@webcam",
-      "name": "\u0421\u0428\u0410 - \u041a\u043b\u0435\u0442\u043a\u0430",
+      "name": "США - Клетка",
       "url": "https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/Playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51201,7 +51201,7 @@
     },
     {
       "id": "65186292a03a0a@webcam",
-      "name": "\u0421\u0428\u0410 - \u0423\u0442\u043a\u043e\u043d\u043e\u0441",
+      "name": "США - Утконос",
       "url": "https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51209,7 +51209,7 @@
     },
     {
       "id": "9c39153065ccc8@webcam",
-      "name": "\u0421\u0430\u043c\u0430\u0440\u0430",
+      "name": "Самара",
       "url": "https://cdn.mediagolod.online/hls/zhkolimp0/stream.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51217,7 +51217,7 @@
     },
     {
       "id": "b2e3e9e501b3e8@webcam",
-      "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 12",
+      "name": "Санкт-Петербург 12",
       "url": "https://live-smartln.cdnvideo.ru/smartln/life11/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51225,7 +51225,7 @@
     },
     {
       "id": "b9df28964e3bb4@webcam",
-      "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 14",
+      "name": "Санкт-Петербург 14",
       "url": "https://live-smartln.cdnvideo.ru/smartln/mir_vnutri6/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51233,7 +51233,7 @@
     },
     {
       "id": "b681cd2ed24257@webcam",
-      "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 15",
+      "name": "Санкт-Петербург 15",
       "url": "https://live-smartln.cdnvideo.ru/smartln/mir_vnutri7/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -51241,7 +51241,7 @@
     },
     {
       "id": "5d1ddb874a5ca1@webcam",
-      "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 2",
+      "name": "Санкт-Петербург 2",
       "url": "https://live-smartln.cdnvideo.ru/smartln/mir_vnutri4/playlist.m3u8",
       "country": "CCTV World",
       "logo": null,
@@ -57316,6 +57316,18 @@
       "url": "https://s16.yalla-sport.top/ch/ch2.php",
       "category": "sports",
       "is_iframe": true
+    },
+    {
+      "id": "bein-hd1-spain-capeverde",
+      "name": "beIN SPORTS HD 1 — Spain vs Cape Verde",
+      "url": "https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream.m3u8",
+      "category": "World Cup 2026",
+      "country": "INT",
+      "city": "",
+      "state": "",
+      "source": "yalalive.app",
+      "logo": "",
+      "headers": {}
     }
   ],
   "curated": [
@@ -57399,7 +57411,7 @@
       "Anime Vision",
       "Anime Vision Classics",
       "Anime x HIDIVE",
-      "Banijay Mr Bean Anim\u00e9",
+      "Banijay Mr Bean Animé",
       "Cartoon Classics FAST",
       "Disney Jr. Latin America South",
       "EnerGeek",
@@ -57421,7 +57433,7 @@
       "NickToons Brasil",
       "Pingviins",
       "Placid East HD",
-      "Pok\u00e9mon",
+      "Pokémon",
       "Pro100TV",
       "RetroCrush",
       "Solnce",
@@ -57533,7 +57545,7 @@
       "NatureTime UK",
       "O'zbekiston Tarixi",
       "Persiana Docs",
-      "RT\u0414",
+      "RTД",
       "Safari TV",
       "Terra Mater WILD English",
       "Total Crime CA",
@@ -58039,7 +58051,7 @@
       "86",
       "111 TV",
       "360 RFTV",
-      "360\u00b0",
+      "360°",
       "A1 TV",
       "A2i TV",
       "A7TV",
@@ -59161,10 +59173,10 @@
       "WDR Fernsehen Bonn",
       "WDR Fernsehen Dortmund",
       "WDR Fernsehen Duisburg",
-      "WDR Fernsehen D\u00fcsseldorf",
+      "WDR Fernsehen Düsseldorf",
       "WDR Fernsehen Essen",
-      "WDR Fernsehen K\u00f6ln",
-      "WDR Fernsehen M\u00fcnster",
+      "WDR Fernsehen Köln",
+      "WDR Fernsehen Münster",
       "WDR Fernsehen Siegen",
       "WDR Fernsehen Wuppertal",
       "WeertFM TV",
@@ -59195,12 +59207,12 @@
       "Zonavision TV",
       "Zurqui TV",
       "Zvezda",
-      "\u041c\u0438\u0440 +7",
-      "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0415\u0432\u0440\u043e\u043f\u0430",
-      "\u0420\u043e\u0441\u0441\u0438\u044f-\u0420\u0422\u0420"
+      "Мир +7",
+      "Первый канал Европа",
+      "Россия-РТР"
     ],
     "all": [
-      "\u00a1Viva Latino!",
+      "¡Viva Latino!",
       "1AlmereTV",
       "1KZN TV",
       "1TV",
@@ -59277,8 +59289,8 @@
       "247 Box TV",
       "360",
       "360 RFTV",
-      "360\u00b0",
-      "360\u00b0 News",
+      "360°",
+      "360° News",
       "360TuneBox",
       "A New Life In The Sun",
       "A1 TV",
@@ -59679,7 +59691,7 @@
       "Balle Balle",
       "Bangla TV",
       "Bangla Vision",
-      "Banijay Mr Bean Anim\u00e9",
+      "Banijay Mr Bean Animé",
       "Banjar TV",
       "Bansal News",
       "Banten TV",
@@ -59743,7 +59755,7 @@
       "BET x Tyler Perry Drama",
       "Bethel TV",
       "Beyblade",
-      "Beyblade en Espa\u00f1ol",
+      "Beyblade en Español",
       "BFM Business",
       "BFM Lyon",
       "BFM TV",
@@ -60267,7 +60279,7 @@
       "Crime ThrillHer",
       "Crimea 24",
       "CrimeFlix",
-      "Cr\u00edmenes Reales",
+      "Crímenes Reales",
       "Crimes Cults Killers",
       "Cristovision",
       "Cruz TV",
@@ -60510,7 +60522,7 @@
       "ECO Television",
       "Ecos Canal 57",
       "Ecovision",
-      "Ecuador Comunicaci\u00f3n",
+      "Ecuador Comunicación",
       "Ecuador TV",
       "Ecuavisa Guayaquil",
       "Ecuavisa Quito",
@@ -60692,11 +60704,11 @@
       "FilmRise Anime",
       "FilmRise Binge Watch France",
       "FilmRise Classic TV",
-      "FilmRise DeGrassi la nouvelle g\u00e9n\u00e9ration",
+      "FilmRise DeGrassi la nouvelle génération",
       "FilmRise Forensic Files",
       "FilmRise Hot Ones",
       "FilmRise Les Routes du Paradis",
-      "FilmRise S\u00e9ries France",
+      "FilmRise Séries France",
       "FilmRise Western",
       "FilmRise Z Nation France",
       "Filstalwelle",
@@ -60724,7 +60736,7 @@
       "FOX Sports",
       "France 24 Arabic",
       "France 24 English",
-      "France 24 Espa\u00f1ol",
+      "France 24 Español",
       "France 24 FAST English",
       "France 24 French",
       "Francophonie24",
@@ -60934,7 +60946,7 @@
       "Homebase TV",
       "Homeful US",
       "HomePlus",
-      "Homicide la cha\u00eene du fait divers",
+      "Homicide la chaîne du fait divers",
       "Hope Channel Bulgaria",
       "Hope Channel Russia",
       "Hornbill TV",
@@ -61050,7 +61062,7 @@
       "Island Vibes",
       "iSTUFF",
       "ISTV",
-      "It\u2019s Anime",
+      "It’s Anime",
       "It's Supernatural! Network",
       "Itage TV",
       "Italia 2",
@@ -61060,7 +61072,7 @@
       "ITV",
       "ITV Deportes",
       "ITV Patagonia",
-      "ITV Un Village Fran\u00e7ais",
+      "ITV Un Village Français",
       "Iunior TV",
       "Ivoire Channel",
       "Izmail TV",
@@ -61377,7 +61389,7 @@
       "Leominster TV Government",
       "Leominster TV Public",
       "Les Anges",
-      "Les Secrets de Nos R\u00e9gions",
+      "Les Secrets de Nos Régions",
       "Les Z'Amours",
       "Let's Make A Deal Classic",
       "Lex TV",
@@ -61659,7 +61671,7 @@
       "MotoGP Channel",
       "Motorvision",
       "Motorvision+",
-      "Motus La Cha\u00eene",
+      "Motus La Chaîne",
       "Mountain Men",
       "MovieSphere AU",
       "MovieSphere UK",
@@ -61874,9 +61886,9 @@
       "Nolly Africa",
       "Noor TV",
       "NOOS TV",
-      "Noovo Cin\u00e9ma",
-      "Noovo Com\u00e9dies",
-      "Noovo T\u00e9l\u00e9r\u00e9alit\u00e9s",
+      "Noovo Cinéma",
+      "Noovo Comédies",
+      "Noovo Téléréalités",
       "Nopola News",
       "Norte Informativo TV",
       "Nortena Tv",
@@ -62149,7 +62161,7 @@
       "pocket.watch",
       "Pocoyo",
       "Pointless UK",
-      "Pok\u00e9mon",
+      "Pokémon",
       "Poker Go",
       "Polar TV",
       "Polar2",
@@ -62247,8 +62259,8 @@
       "QS24.tv",
       "QTV Gambia",
       "Quarto Canale Flegreo",
-      "Qu\u00e9 Culpa Tiene Fatmag\u00fcl",
-      "Qui Veut Gagner Des Millions La Cha\u00eene",
+      "Qué Culpa Tiene Fatmagül",
+      "Qui Veut Gagner Des Millions La Chaîne",
       "Quince UCR",
       "Quo Vadis TV",
       "QVC Beauty",
@@ -62319,7 +62331,7 @@
       "Radio Tele Hit",
       "Radio Television Marbella",
       "Radio Televizija Banovina",
-      "R\u00e1dio Temas de Novelas",
+      "Rádio Temas de Novelas",
       "Radio Tropical",
       "Radio TV Basse-Terre",
       "Radio TV El Arca del Pacto",
@@ -62556,7 +62568,7 @@
       "RTV38",
       "RTVC",
       "RTVi",
-      "RT\u0414",
+      "RTД",
       "Rudaw TV",
       "Runtime Espanol",
       "Russia-1",
@@ -63048,7 +63060,7 @@
       "Telemontecarlo",
       "Telemundo Accion",
       "Telemundo Al Dia",
-      "Telemundo Al D\u00eda",
+      "Telemundo Al Día",
       "Telemundo Corpus Christi",
       "Telemundo Noticias Ahora",
       "Telemundo Noticias Florida",
@@ -63218,7 +63230,7 @@
       "Tony Robbins",
       "ToonGoggles",
       "TOP Barca",
-      "TOP Bar\u00e7a Spain",
+      "TOP Barça Spain",
       "Top Channel",
       "Top Chef Vault",
       "Top Gear",
@@ -63707,7 +63719,7 @@
       "Wanted: Dead or Alive",
       "Wap TV",
       "WAPA+",
-      "Wasabi la cha\u00eene anime",
+      "Wasabi la chaîne anime",
       "Watan TV",
       "Watan-e-Maa TV",
       "Watar Radio",
@@ -63756,10 +63768,10 @@
       "WDR Fernsehen Bonn",
       "WDR Fernsehen Dortmund",
       "WDR Fernsehen Duisburg",
-      "WDR Fernsehen D\u00fcsseldorf",
+      "WDR Fernsehen Düsseldorf",
       "WDR Fernsehen Essen",
-      "WDR Fernsehen K\u00f6ln",
-      "WDR Fernsehen M\u00fcnster",
+      "WDR Fernsehen Köln",
+      "WDR Fernsehen Münster",
       "WDR Fernsehen Siegen",
       "WDR Fernsehen Wuppertal",
       "WDWL 58.1",
@@ -63856,7 +63868,7 @@
       "World Poker Tour UK",
       "World Poker Tour US",
       "World War TV",
-      "World\u2019s Most Evil Killers",
+      "World’s Most Evil Killers",
       "WOS",
       "WOW TV",
       "WOX TV",
@@ -63931,7 +63943,7 @@
       "Xtreme Outdoor Presented by HISTORY",
       "Xtremo Channel",
       "XV TV",
-      "Y'a Que La V\u00e9rit\u00e9 Qui Compte La Cha\u00eene",
+      "Y'a Que La Vérité Qui Compte La Chaîne",
       "YAAAS!",
       "Yahoo! Sports Network",
       "YaPervyy",
@@ -63987,47 +63999,47 @@
       "Zurqui TV",
       "Zvezda",
       "Zvezda Plus",
-      "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u043a\u0438\u043d\u043e International",
-      "\u041a\u0438\u043d\u043e 1 International",
-      "\u041c\u0438\u0440 +7",
-      "\u041c\u0443\u0437\u044b\u043a\u0430 1 International",
-      "\u041c\u0443\u0437\u044b\u043a\u0430 \u041a\u0438\u043d\u043e International",
-      "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0415\u0432\u0440\u043e\u043f\u0430",
-      "\u0420\u043e\u0441\u0441\u0438\u044f-\u0420\u0422\u0420",
-      "\u4e0a\u865e1\u65b0\u95fb\u7efc\u5408",
-      "\u4e0a\u865e3\u65b0\u5546\u90fd",
-      "\u4e0a\u865e\u7d93\u6fdf\u6587\u5316",
-      "\u4e4b\u6c5f\u7eaa\u5f55",
-      "\u4f59\u59da\u59da\u6c5f\u6587\u5316",
-      "\u4f59\u59da\u65b0\u95fb\u7efc\u5408",
-      "\u519c\u5b89\u65b0\u95fb\u7efc\u5408",
-      "\u524d\u90ed\u7efc\u5408",
-      "\u5409\u6797\u5e02\u65b0\u95fb\u7efc\u5408",
-      "\u56db\u5e73\u65b0\u95fb\u7efc\u5408",
-      "\u5d4a\u5dde\u7efc\u5408",
-      "\u5ef6\u8fb9\u65b0\u95fb\u7efc\u5408",
-      "\u65b0\u660c\u4f11\u95f2\u5f71\u89c6",
-      "\u65b0\u660c\u65b0\u805e\u7d9c\u5408",
-      "\u677e\u539f\u65b0\u95fb\u7efc\u5408",
-      "\u6cb3\u6e90\u7efc\u5408",
-      "\u6d59\u6c5f I \u7ecd\u5174\u5f71\u89c6",
-      "\u6d59\u6c5f\u56fd\u9645",
-      "\u6d59\u6c5f\u6559\u79d1",
-      "\u6d59\u6c5f\u65b0\u95fb",
-      "\u6d59\u6c5f\u6c11\u751f",
-      "\u6d59\u6c5f\u7ecf\u6d4e",
-      "\u6d59\u6c5f\u94b1\u6c5f",
-      "\u767d\u5c71\u65b0\u95fb\u7efc\u5408",
-      "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u65b0\u95fb\u7efc\u5408\u9891\u9053 (FZTV-1)",
-      "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u90fd\u5e02\u751f\u6d3b\u9891\u9053 (FZTV-3)",
-      "\u798f\u5dde\u7535\u89c6\u53f0\u5c11\u513f\u9891\u9053 (FZTV-\u5c11\u513f)",
-      "\u8427\u5c71\u65b0\u95fb\u7efc\u5408",
-      "\u856d\u5c71\u751f\u6d3b\u983b\u9053",
-      "\u8fbd\u6e90\u65b0\u95fb\u7efc\u5408",
-      "\u901a\u5316\u65b0\u95fb",
-      "\u957f\u6625\u7efc\u5408",
-      "\u96c6\u5b89\u7efc\u5408",
-      "\u9918\u59da\u59da\u6c5f\u6587\u5316"
+      "Детское кино International",
+      "Кино 1 International",
+      "Мир +7",
+      "Музыка 1 International",
+      "Музыка Кино International",
+      "Первый канал Европа",
+      "Россия-РТР",
+      "上虞1新闻综合",
+      "上虞3新商都",
+      "上虞經濟文化",
+      "之江纪录",
+      "余姚姚江文化",
+      "余姚新闻综合",
+      "农安新闻综合",
+      "前郭综合",
+      "吉林市新闻综合",
+      "四平新闻综合",
+      "嵊州综合",
+      "延边新闻综合",
+      "新昌休闲影视",
+      "新昌新聞綜合",
+      "松原新闻综合",
+      "河源综合",
+      "浙江 I 绍兴影视",
+      "浙江国际",
+      "浙江教科",
+      "浙江新闻",
+      "浙江民生",
+      "浙江经济",
+      "浙江钱江",
+      "白山新闻综合",
+      "福州广播电视台新闻综合频道 (FZTV-1)",
+      "福州广播电视台都市生活频道 (FZTV-3)",
+      "福州电视台少儿频道 (FZTV-少儿)",
+      "萧山新闻综合",
+      "蕭山生活頻道",
+      "辽源新闻综合",
+      "通化新闻",
+      "长春综合",
+      "集安综合",
+      "餘姚姚江文化"
     ],
     "kids": [
       "3ABN Kids",
@@ -64041,7 +64053,7 @@
       "Baby Shark TV",
       "BabyTV Spain",
       "Balapan",
-      "Banijay Mr Bean Anim\u00e9",
+      "Banijay Mr Bean Animé",
       "BeJoy.kids",
       "Bem Mais TV",
       "Bolajon",
@@ -64093,7 +64105,7 @@
       "Persiana Teen",
       "Pingviins",
       "pocket.watch",
-      "Pok\u00e9mon",
+      "Pokémon",
       "Pop Up",
       "Radost Moya",
       "RiC",
@@ -64236,7 +64248,7 @@
       "24/7 Canal de Noticias",
       "99TV",
       "360",
-      "360\u00b0 News",
+      "360° News",
       "Aaj Tak",
       "Abante TV",
       "ABC News Live",
@@ -64393,7 +64405,7 @@
       "DW English",
       "DW Espanol",
       "DW Russian",
-      "Ecuador Comunicaci\u00f3n",
+      "Ecuador Comunicación",
       "Egnatia TV",
       "Ekattor TV",
       "Ekushey TV",
@@ -64416,7 +64428,7 @@
       "Formula",
       "France 24 Arabic",
       "France 24 English",
-      "France 24 Espa\u00f1ol",
+      "France 24 Español",
       "France 24 French",
       "Free Speech TV",
       "FREEDOM",
@@ -64894,11 +64906,11 @@
       "Xtrema Accion",
       "Xtrema Cine Clasico",
       "ZB Cinema",
-      "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u043a\u0438\u043d\u043e International",
-      "\u041a\u0438\u043d\u043e 1 International"
+      "Детское кино International",
+      "Кино 1 International"
     ],
     "music": [
-      "\u00a1Viva Latino!",
+      "¡Viva Latino!",
       "3ABN Praise Him Music Network",
       "4 Fun TV",
       "4 Music",
@@ -65143,7 +65155,7 @@
       "Radio Realpolitik",
       "Radio SWH TV",
       "Radio Tele Hit",
-      "R\u00e1dio Temas de Novelas",
+      "Rádio Temas de Novelas",
       "Radio Tropical",
       "Radio TV Sal One",
       "Radio Weser TV Bremen",
@@ -65297,8 +65309,8 @@
       "ZFM Zoetermeer TV",
       "Zo'r TV",
       "Zoom",
-      "\u041c\u0443\u0437\u044b\u043a\u0430 1 International",
-      "\u041c\u0443\u0437\u044b\u043a\u0430 \u041a\u0438\u043d\u043e International"
+      "Музыка 1 International",
+      "Музыка Кино International"
     ],
     "public": [
       "3Cat Cameres del temps",
