@@ -12,7 +12,11 @@ import path from 'path'
 function loadWCSchedule() {
   try {
     const p = path.join(process.cwd(), 'src/data/worldcup_schedule.json')
-    if (fs.existsSync(p)) return JSON.parse(fs.readFileSync(p, 'utf-8')).matches || []
+    if (fs.existsSync(p)) {
+      const raw = JSON.parse(fs.readFileSync(p, 'utf-8'))
+      // Handle both array format (FIFA API) and {matches: [...]} format
+      return Array.isArray(raw) ? raw : (raw.matches || [])
+    }
   } catch {}
   return []
 }

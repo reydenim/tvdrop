@@ -9,6 +9,7 @@ interface ChannelInfo {
 }
 
 interface Match {
+  slug?: string;
   date: string;
   time_utc: string;
   time_wib: string;
@@ -46,11 +47,18 @@ export default function WorldCupBanner({ matches }: Props) {
     return () => clearInterval(t);
   }, []);
 
-  // Client-side: hide finished matches immediately based on time
-  const activeMatches = matches.filter(m => parseMatchEnd(m) > now);
+  // Client-side: filter matches
+  // active = match hasn't ended yet OR match is today (regardless of finished)
+  const nowStr = now.toISOString().slice(0, 10);
+  const activeMatches = matches.filter(m => parseMatchEnd(m) > now || m.date === nowStr);
   const liveMatches = activeMatches.filter(m => m.status === 'live');
-  const todayMatches = activeMatches.filter(m => m.status === 'today' || m.status === 'starting_soon' || (m.status === 'upcoming' && m.date === now.toISOString().slice(0, 10)));
-  const upcomingMatches = activeMatches.filter(m => m.status === 'upcoming' && !todayMatches.includes(m)).slice(0, 10);
+  const todayMatches = activeMatches.filter(m => 
+    m.date === nowStr || m.status === 'today' || m.status === 'starting_soon' || m.status === 'live'
+  );
+  // upcoming: future matches, max 12
+  const upcomingMatches = matches.filter(m => 
+    m.date > nowStr && m.status !== 'finished'
+  ).slice(0, 12);
 
   const availableCountries = matches[0]?.channels ? Object.keys(matches[0].channels) : [];
   
@@ -108,8 +116,9 @@ export default function WorldCupBanner({ matches }: Props) {
           <h3 className="worldcup-label live-label">🔴 LIVE SEKARANG</h3>
           <div className="worldcup-matches-row">
             {liveMatches.map((match, i) => (
-              <MatchCard key={i} match={match} country={selectedCountry} isLive />
-            ))}
+              <Link key={i} href={match.slug ? `/match/${match.slug}` : '#'} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <MatchCard match={match} country={selectedCountry} isLive />
+              </Link>))}
           </div>
         </div>
       )}
@@ -120,7 +129,9 @@ export default function WorldCupBanner({ matches }: Props) {
           <h3 className="worldcup-label">📅 JADWAL HARI INI</h3>
           <div className="worldcup-matches-row">
             {todayMatches.map((match, i) => (
-              <MatchCard key={i} match={match} country={selectedCountry} />
+              <Link key={i} href={match.slug ? `/match/${match.slug}` : '#'} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <MatchCard match={match} country={selectedCountry} />
+              </Link>
             ))}
           </div>
         </div>
@@ -132,7 +143,9 @@ export default function WorldCupBanner({ matches }: Props) {
           <h3 className="worldcup-label">📋 MENDATANG</h3>
           <div className="worldcup-matches-scroll">
             {upcomingMatches.map((match, i) => (
-              <MatchCard key={i} match={match} country={selectedCountry} />
+              <Link key={i} href={match.slug ? `/match/${match.slug}` : '#'} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <MatchCard match={match} country={selectedCountry} />
+              </Link>
             ))}
           </div>
         </div>
@@ -158,7 +171,11 @@ function MatchCard({ match, country, isLive }: { match: Match; country: string; 
       </div>
       <div className="match-teams">
         <span className="team home">{match.home}</span>
-        <span className="vs">vs</span>
+        {(match as any).score ? (
+          <span className="match-score">{(match as any).score}</span>
+        ) : (
+          <span className="vs">vs</span>
+        )}
         <span className="team away">{match.away}</span>
       </div>
       
