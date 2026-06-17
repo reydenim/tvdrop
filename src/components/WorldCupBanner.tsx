@@ -48,17 +48,21 @@ export default function WorldCupBanner({ matches }: Props) {
   }, []);
 
   // Client-side: filter matches
-  // active = match hasn't ended yet OR match is today (regardless of finished)
   const nowStr = now.toISOString().slice(0, 10);
-  const activeMatches = matches.filter(m => parseMatchEnd(m) > now || m.date === nowStr);
-  const liveMatches = activeMatches.filter(m => m.status === 'live');
-  const todayMatches = activeMatches.filter(m => 
-    m.date === nowStr || m.status === 'today' || m.status === 'starting_soon' || m.status === 'live'
-  );
-  // upcoming: future matches, max 12
+  
+  // LIVE + starting_soon = show in HARI INI (regardless of date)
+  const liveMatches = matches.filter(m => m.status === 'live');
+  const soonMatches = matches.filter(m => m.status === 'starting_soon' && !liveMatches.includes(m));
+  const todayMatches = [...liveMatches, ...soonMatches];
+  
+  // upcoming: future matches NOT already in today, max 12
+  const todayIds = new Set(todayMatches.map(m => m.id));
   const upcomingMatches = matches.filter(m => 
-    m.date > nowStr && m.status !== 'finished'
+    m.date >= nowStr && m.status !== 'finished' && !todayIds.has(m.id)
   ).slice(0, 12);
+  
+  // finished today: for the score section
+  const finishedToday = matches.filter(m => m.date === nowStr && m.status === 'finished');
 
   const availableCountries = matches[0]?.channels ? Object.keys(matches[0].channels) : [];
   

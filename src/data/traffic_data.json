@@ -1,100 +1,100 @@
 {
-  "updated_at": "2026-06-17T14:40:00Z",
-  "total_requests": 3666,
-  "today_requests": 3666,
-  "today_unique": 24,
-  "bandwidth_mb": 46.2,
+  "updated_at": "2026-06-17T16:58:02Z",
+  "total_requests": 3918,
+  "today_requests": 3918,
+  "today_unique": 27,
+  "bandwidth_mb": 49.6,
   "recent_5000": {
-    "unique_visitors": 24,
-    "total_hits": 3664,
-    "bandwidth_mb": 46.2
+    "unique_visitors": 27,
+    "total_hits": 3916,
+    "bandwidth_mb": 49.6
   },
   "top_pages": [
     [
       "/manifest.json",
-      157
+      165
     ],
     [
       "/",
-      24
+      31
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=5CB68i4pnAekjehf",
-      21
+      25
     ],
     [
       "/watch/MetroTV.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      20
+      22
     ],
     [
       "/watch/tvOne.id%40SD?_rsc=5CB68i4pnAekjehf",
-      17
+      21
     ],
     [
       "/watch/BeritaSatu.id%40SD?_rsc=5CB68i4pnAekjehf",
-      16
-    ],
-    [
-      "/watch/tvOne.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      16
+      20
     ],
     [
       "/api/channels?lite=1&limit=1200",
-      15
+      19
     ],
     [
       "/semua?_rsc=5CB68i4pnAekjehf",
-      15
+      19
+    ],
+    [
+      "/watch/tvOne.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
+      19
     ],
     [
       "/match/austria-vs-jordan?_rsc=tXyZJ52UQVBCVsD3",
-      15
-    ],
-    [
-      "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
-      15
+      17
     ],
     [
       "/match/austria-vs-jordan?_rsc=5CB68i4pnAekjehf",
-      14
+      16
     ],
     [
       "/semua?_rsc=7h4NYy5eoyMcNlUN",
-      14
+      16
     ],
     [
       "/semua?_rsc=yIp22O3xgPPxC28X",
-      14
+      16
     ],
     [
       "/semua?_rsc=ip66nQq-Rp6_4kIW",
-      14
+      16
     ],
     [
       "/semua?_rsc=I5JE6HmEodfA7mTG",
-      14
+      16
     ],
     [
       "/match/ghana-vs-panama?_rsc=5CB68i4pnAekjehf",
-      12
+      16
     ],
     [
       "/match/portugal-vs-congo-dr?_rsc=5CB68i4pnAekjehf",
-      12
+      16
     ],
     [
       "/match/england-vs-croatia?_rsc=5CB68i4pnAekjehf",
-      12
+      16
     ],
     [
-      "/match/ghana-vs-panama?_rsc=tXyZJ52UQVBCVsD3",
-      12
+      "/watch/BeritaSatu.id%40SD?_rsc=tXyZJ52UQVBCVsD3",
+      16
+    ],
+    [
+      "/match/portugal-vs-congo-dr?_rsc=tXyZJ52UQVBCVsD3",
+      15
     ]
   ],
   "top_referrers": [
     [
       "https://tv.drop.my.id/",
-      1198
+      1368
     ],
     [
       "https://tv.drop.my.id/olahraga",
@@ -134,13 +134,13 @@
     ]
   ],
   "status_codes": {
-    "200": 3379,
-    "304": 168,
+    "200": 3617,
+    "304": 178,
     "404": 102,
     "403": 8,
-    "500": 4,
-    "308": 2,
-    "499": 1
+    "500": 6,
+    "499": 3,
+    "308": 2
   },
   "hourly": {
     "00:00": 185,
@@ -156,6 +156,9 @@
     "10:00": 841,
     "11:00": 95,
     "12:00": 147,
-    "13:00": 48
+    "13:00": 48,
+    "14:00": 1,
+    "15:00": 1,
+    "16:00": 250
   }
 }

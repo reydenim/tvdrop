@@ -26,6 +26,17 @@ RESULT_MAP = {
     5: "finished",
 }
 
+FIFA_CHANNELS = {
+    "FIFA+ (English)": [{"name": "FIFA+ English", "id": "fifaplus-english"}],
+    "FIFA+ (French)": [{"name": "FIFA+ French", "id": "fifaplus-french"}],
+    "FIFA+ (German)": [{"name": "FIFA+ German", "id": "fifaplus-german"}],
+    "FIFA+ (Spanish)": [{"name": "FIFA+ Spain", "id": "fifaplus-spain"}],
+    "FIFA+ (Portuguese)": [{"name": "FIFA+ Portuguese", "id": "fifaplus-portuguese"}],
+    "FIFA+ (Italia)": [{"name": "FIFA+ Italy", "id": "fifaplus-italy"}],
+    "FIFA+ (USA)": [{"name": "FIFA+ USA", "id": "buMnowpZSOvaCS@us"}],
+    "FIFA+ (Hispanic)": [{"name": "FIFA+ Hispanic America", "id": "fifaplus-hispanic"}],
+}
+
 def fetch():
     resp = requests.get(FIFA_URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
@@ -77,6 +88,12 @@ def extract(standings):
                     status = "starting_soon"
                 else:
                     status = "upcoming"
+            # Override: upcoming within 1 hour = starting_soon
+            if status == "upcoming" and (wib_time - now).total_seconds() < 3600:
+                status = "starting_soon"
+            # Override: kickoff passed with no score yet = live
+            if status == "upcoming" and now >= wib_time:
+                status = "live"
             
             # Score string
             if home_score is not None:
@@ -107,7 +124,7 @@ def extract(standings):
                 "stage": stage,
                 "status": status,
                 "result_code": result_code,
-                "channels": {},
+                "channels": FIFA_CHANNELS,
             }
     
     return sorted(matches.values(), key=lambda x: (x["date"], x["time_wib"]))
