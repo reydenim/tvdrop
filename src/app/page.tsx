@@ -97,7 +97,7 @@ export default function HomePage() {
     curated: curated.map(c => c.id),
     totalChannels: rawData.channels.length,
     health: loadHealth(),
-    wcMatches: loadWCSchedule(),
+    wcMatches: [],
     sections: [
       { title: 'Channel Populer', channels: curated.map(c => c.id), link: '/semua' },
       ...genreSections.map(s => ({ title: s.title, channels: s.channels.map(c => c.id), link: s.link })),

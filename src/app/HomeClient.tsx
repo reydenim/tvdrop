@@ -5,7 +5,6 @@ import Link from 'next/link'
 import Header from '@/components/Header'
 import ChannelCard from '@/components/ChannelCard'
 import AdBanner from '@/components/AdBanner'
-import WorldCupBanner from '@/components/WorldCupBanner'
 import { useFavorites } from '@/lib/useFavorites'
 
 export interface Channel { id: string; name: string; country: string; quality?: string; url: string; logo?: string }
@@ -97,9 +96,6 @@ export default function HomeClient({ data }: { data: HomeData }) {
 
         {/* Parallax logo layer — subtle shift with mouse */}
         <div className="absolute bottom-16 sm:bottom-20 left-0 right-0 z-20 px-5 sm:px-10 max-w-4xl">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 border border-white/10 backdrop-blur-md text-[10px] uppercase tracking-[0.24em] text-white/70 mb-4">
-            <span className="w-1.5 h-1.5 rounded-full bg-green-400 shadow-[0_0_14px_rgba(74,222,128,.8)]" /> Live now
-          </div>
           <h1 className="tv-title text-5xl sm:text-7xl md:text-8xl font-black leading-[0.9] drop-shadow-2xl max-w-[900px]">{s.name}</h1>
           <p className="text-sm sm:text-base text-white/62 mt-4 max-w-xl">{s.country} · {s.quality || 'Live channel'} · Watch instantly on TVDROP</p>
           <div className="flex items-center gap-3 mt-7 flex-wrap">
@@ -120,10 +116,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
           <AdBanner slot="home-top" format="leaderboard" link="https://omg10.com/4/11127947" />
         </div>
 
-        {/* World Cup 2026 Schedule */}
-        {data.wcMatches && data.wcMatches.length > 0 && (
-          <WorldCupBanner matches={data.wcMatches} />
-        )}
+        {/* Ad */}
 
         {sections.map((sec, i) => sec.channels.length > 0 && (
           <section key={i} className="mb-9 sm:mb-11 sr" style={{ transitionDelay: i * 80 + 'ms' }}>
